@@ -2,7 +2,13 @@
   "matches": [
    {
       "title": "Atletico Madrid vs Real Madrid",
-      "poster": "https://assets.khelnow.com/news/uploads/2023/09/Atletico-vs-Real-Madrid.jpg"
+      "poster": "https://assets.khelnow.com/news/uploads/2023/09/Atletico-vs-Real-Madrid.jpg",
+     "url": [
+    {
+      "source": "Smooth",
+      "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://hls.suanzsd6.com/hd-en-6MuSsYd5zdnUiF8fTm.m3u8"
+    },
+  ]
     },
         {
       "title": "Nepal vs West Indies",
@@ -59,7 +65,7 @@
     {
       "source": "Peacock",
       "url": "https://kleanpro.cfd/embed/b84956d1e2fca8e89f5fa90ce24b1ef7"
-    }
+    },
   ]
 }
  ]
