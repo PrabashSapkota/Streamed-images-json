@@ -63,30 +63,22 @@
       ]
     },
     {
-      "title": "Nottingham Forest vs Manchester United",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPpBBx6KMNxD6+IElpCIcMM8dwFgSCn2GydYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "title": "Liverpool vs Aston Villa",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzBJc1GRA0g+IEiBghEOM4n18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
       "url": [
          {
           "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-01/nfo-mun"
-        },
-        {
-          "source": "Alternate",
-          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
-        },
-         {
-          "source": "Alternate 2",
-          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play1nm.hnyongshun.cn/live/cd8557e4ef54538c6a499cbdfd80e28b.m3u8"
+          "url": "https://ppv.to/embed/epl/2025-11-01/liv-avl"
         }
       ]
     },
      {
-      "title": "Burnley vs Arsenal",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gUXHWhBa+IEiBghEOM4kQoCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
+      "title": "Real Madrid vs Valencia",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCTEmrMCG4g+IEvpARjIGJZCIFTJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
       "url": [
         {
-          "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-01/bur-ars"
+          "source": "Laliga TV",
+          "url": "https://ppv.to/embed/laliga/2025-11-01/rma-val"
         }
       ]
     },
