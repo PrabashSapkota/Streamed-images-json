@@ -59,38 +59,22 @@
       ]
     },
     {
-      "title": "Real Madrid vs Barcelona",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBDE0IFCETcQfECRCGIJkDCu4zBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "title": "Nottingham Forest vs Manchester United",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPpBBx6KMNxD6+IElpCIcMM8dwFgSCn2GydYFSi6vy9LLPdNaYK5iohBAA.webp",
       "url": [
          {
-          "source": "ESPN",
-          "url": "https://ppv.to/embed/laliga/2025-10-26/rma-bar"
-        },
-         {
-          "source": "English",
-          "url": "https://justembeds.top/embed/ae5dt9yh2uj8gp1zwn7fk4ol6mv3cb"
-        },
-         {
-          "source": "Spanish",
-          "url": "https://justembeds.top/embed/95cd3f6f0f056feffe17e3d91157386d"
-        },
-        {
-          "source": "Smooth",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://hls.suanzsd6.com/hd-en-6MuSsYdpeVWWRXjdqZ.m3u8"
+          "source": "Sky Sports",
+          "url": "https://ppv.to/embed/epl/2025-11-01/nfo-mun"
         }
       ]
     },
      {
-      "title": "Arsenal vs Crystal Palace",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCzAw-QTm4g+IEiBghEOM4gMSmSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp",
+      "title": "Burnley vs Arsenal",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gUXHWhBa+IEiBghEOM4kQoCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
       "url": [
         {
-          "source": "Sky Sports 8",
-          "url": "https://ppv.to/embed/epl/2025-10-26/ars-cry"
-        },
-        {
-          "source": "Alternate",
-          "url": "https://justembeds.top/embed/f1e2d3c4b5a698786543210fedcba987"
+          "source": "Sky Sports",
+          "url": "https://ppv.to/embed/epl/2025-11-01/bur-ars"
         }
       ]
     }
