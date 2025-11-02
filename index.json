@@ -83,16 +83,12 @@
       ]
     },
     {
-      "title": "Atlético Madrid vs Sevilla",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLJBB8QKMNxAkQ+7Yf0QDIGJdxaCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "title": "Manchester City vs Bournemouth",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECVwJ+YJJBDcQfDSBghEOM4k0wCwPTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "url": [
         {
-          "source": "Alternate",
-          "url": "https://ppv.to/embed/laliga/2025-11-01/atm-sev"
-        },
-         {
-          "source": "Alternate 2",
-          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play1nm.hnyongshun.cn/live/63163be95c5472be9509e960ea8b48c3.m3u8"
+          "source": "Sky Sports",
+          "url": "https://ppv.to/embed/epl/2025-11-02/mci-bou"
         }
       ]
     },
