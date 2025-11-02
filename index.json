@@ -83,12 +83,12 @@
       ]
     },
     {
-      "title": "Manchester City vs Bournemouth",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECVwJ+YJJBDcQfDSBghEOM4k0wCwPTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "title": "NFL RedZone",
+      "poster": "https://api.ppv.to/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",
       "url": [
         {
-          "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-02/mci-bou"
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/nfl-redzone-wk9"
         }
       ]
     },
