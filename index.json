@@ -89,17 +89,13 @@
       ]
     },
     {
-      "title": "West Ham United vs Newcastle United",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECH5heTNhBDcQfECRAwQiHOcRSzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "title": "Sunderland vs Everton",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRlM+IXkl0gdJEDBCIcpxMZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "url": [
         {
           "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-02/whu-new"
+          "url": "https://ppv.to/embed/epl/2025-11-03/sun-eve"
         },
-        {
-          "source": "Alternate",
-          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8"
-        }
       ]
     }
   ]
