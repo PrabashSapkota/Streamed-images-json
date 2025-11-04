@@ -69,6 +69,14 @@
       "poster": "https://api.ppv.to/assets/thumb/07767f12320efa67f85591ca185c7304-thumbnail.jpg",
       "url": [
         {
+          "source": "HD Stream",
+          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8"
+        },
+         {
+          "source": "SD Stream",
+          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://live.inplyr.com/room/113906.m3u8"
+        },
+        {
           "source": "Alternate",
           "url": "https://ppv.to/embed/ucl/2025-11-04/liv-rma"
         }
