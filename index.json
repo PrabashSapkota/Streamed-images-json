@@ -93,16 +93,12 @@
       ]
     },
     {
-      "title": "Slavia Praha vs. Arsenal",
-      "poster": "https://api.ppv.to/assets/thumb/b38f45c015baf55f8809f6504fe7fc14-thumbnail.jpg",
+      "title": "Paris vs. Bayern München",
+      "poster": "https://api.ppv.to/assets/thumb/e8a3a3ba4d308a84a8fa9df295651185-thumbnail.jpg",
       "url": [
         {
-          "source": "Stable",
-          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8"
-        },
-        {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/ucl/2025-11-04/slp-ars"
+          "url": "https://ppv.to/embed/ucl/2025-11-04/psg-bay"
         }
       ]
     }
