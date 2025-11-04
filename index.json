@@ -85,12 +85,12 @@
       ]
     },
     {
-      "title": "Sunderland vs Everton",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRlM+IXkl0gdJEDBCIcpxMZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "title": "Slavia Praha vs. Arsenal",
+      "poster": "https://api.ppv.to/assets/thumb/b38f45c015baf55f8809f6504fe7fc14-thumbnail.jpg",
       "url": [
         {
-          "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-03/sun-eve"
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/ucl/2025-11-04/slp-ars"
         }
       ]
     }
