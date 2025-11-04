@@ -65,12 +65,12 @@
       ]
     },
      {
-      "title": "Real Madrid vs Valencia",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCTEmrMCG4g+IEvpARjIGJZCIFTJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+      "title": "Liverpool vs. Real Madrid",
+      "poster": "https://api.ppv.to/assets/thumb/07767f12320efa67f85591ca185c7304-thumbnail.jpg",
       "url": [
         {
-          "source": "Laliga TV",
-          "url": "https://ppv.to/embed/laliga/2025-11-01/rma-val"
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/ucl/2025-11-04/liv-rma"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/nfl-redzone-wk9"
+          "url": "https://ppv.to/embed/nfl-redzone-wk10"
         }
       ]
     },
