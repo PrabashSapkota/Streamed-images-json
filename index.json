@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "NFL RedZone",
-      "poster": "https://api.ppv.to/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg",
+      "title": "Qarabağ Youth vs Chelsea Youth",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvRSUQZMbxD6sOkChBGSBkNRMGWSClhFzGKMKq0c35RtTlb8rMBgbuJiEEA.webp",
       "url": [
         {
-          "source": "Alternate",
-          "url": "https://ppv.to/embed/nfl-redzone-wk10"
+          "source": "HD Stream",
+          "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8"
         }
       ]
     },
