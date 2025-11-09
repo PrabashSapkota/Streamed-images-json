@@ -91,12 +91,12 @@
       ]
     },
     {
-      "title": "Man City vs. B. Dortmund",
-      "poster": "https://api.ppv.to/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg",
+      "title": "Manchester City vs Liverpool",
+      "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/ucl/2025-11-05/mci-bvb"
+          "url": "https://ppv.to/embed/epl/2025-11-09/mci-liv"
         }
       ]
     },
