@@ -41,62 +41,62 @@
       "poster": "https://assets.khelnow.com/news/uploads/2025/09/Carlos-Alcaraz-and-Zizou-Bergs-add-Japan-Open-2025-logo.jpg"
     },
     {
-      "title": "South Africa tour of Pakistan: Pakistan vs South Africa",
-      "poster": "https://cricprozone.com/wp-content/uploads/2025/09/South-Africa-Tour-of-Pakistan-2025-scaled.webp",
-      "url": [
-        {
-          "source": "Willow",
-          "url": "https://justembeds.xyz/embed/f7dc5cb51217cf8eda81bc5a822a1548"
-        }
-      ]
-    },
-    {
-      "title": "Liverpool vs Aston Villa",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzBJc1GRA0g+IEiBghEOM4n18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-      "url": [
-         {
-          "source": "Sky Sports",
-          "url": "https://ppv.to/embed/epl/2025-11-01/liv-avl"
-        }
-      ]
-    },
-     {
-      "title": "Club Brugge Youth vs Barcelona Youth",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGAAGPuLAhEvEFhAkQKY6ZBHqIO4vzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-      "url": [
-        {
-          "source": "HD Stream",
-          "url": "https://bintv.pages.dev/?id=e/playlist.m3u8&data=aHR0cHM6Ly9wcmFiYXNoc2Fwa290YS5naXRodWIuaW8vQmludHZwbGF5ZXIvP21vcmE9aHR0cHM6Ly9yZ2VsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjA0MzE1MS9yYWRpb2xpdmUvcGxheWxpc3QubTN1OA==&id=/?id=e/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Tottenham Hotspur vs Fulham",
-      "poster": "",
-      "url": [
-        {
-          "source": "HD Stream",
-          "url": "https://ppv.to/embed/epl/2025-11-29/tot-ful"
-        }
-      ]
-    },
-    {
-      "title": "Everton vs Newcastle United",
-      "poster": "",
-      "url": [
-        {
-          "source": "HD Stream",
-          "url": "https://ppv.to/embed/epl/2025-11-29/eve-new"
-        }
-      ]
-    },
-    {
-      "title": "Barcelona vs Deportivo Alavés",
+      "title": "Crystal Palace vs Manchester United",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/laliga/2025-11-29/bar-ala"
+          "url": "https://ppv.to/embed/epl/2025-11-30/cry-mun"
+        }
+      ]
+    },
+    {
+      "title": "West Ham United vs Liverpool",
+      "poster": "",
+      "url": [
+         {
+          "source": "Alternaye",
+          "url": "https://ppv.to/embed/epl/2025-11-30/whu-liv"
+        }
+      ]
+    },
+     {
+      "title": "Qatar Grand Prix",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/f1/2025/qatar/race"
+        }
+      ]
+    },
+    {
+      "title": "Chelsea vs Arsenal",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/epl/2025-11-30/che-ars"
+        }
+      ]
+    },
+    {
+      "title": "NFL RedZone",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/nfl-redzone-wk13"
+        }
+      ]
+    },
+    {
+      "title": "Girona vs Real Madrid",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/laliga/2025-11-30/gir-rma"
         }
       ]
     },
