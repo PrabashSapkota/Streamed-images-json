@@ -41,72 +41,88 @@
       "poster": "https://assets.khelnow.com/news/uploads/2025/09/Carlos-Alcaraz-and-Zizou-Bergs-add-Japan-Open-2025-logo.jpg"
     },
     {
-      "title": "Crystal Palace vs Manchester United",
+      "title": "Bournemouth vs Everton",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/epl/2025-11-30/cry-mun"
+          "url": "https://ppv.to/embed/epl/2025-12-02/bou-eve"
         }
       ]
     },
     {
-      "title": "West Ham United vs Liverpool",
+      "title": "Fulham vs Manchester City",
       "poster": "",
       "url": [
          {
           "source": "Alternaye",
-          "url": "https://ppv.to/embed/epl/2025-11-30/whu-liv"
+          "url": "https://ppv.to/embed/epl/2025-12-02/ful-mci"
         }
       ]
     },
      {
-      "title": "Qatar Grand Prix",
+      "title": "Barcelona vs Atlético Madrid",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/f1/2025/qatar/race"
+          "url": "https://ppv.to/embed/laliga/2025-12-02/bar-atm"
         }
       ]
     },
     {
-      "title": "Chelsea vs Arsenal",
+      "title": "Newcastle United vs Tottenham Hotspur",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/epl/2025-11-30/che-ars"
+          "url": "https://ppv.to/embed/epl/2025-12-02/new-tot"
         }
       ]
     },
     {
-      "title": "NFL RedZone",
+      "title": "Athletic Bilbao vs Real Madrid",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/nfl-redzone-wk13"
+          "url": "https://ppv.to/embed/laliga/2025-12-03/ath-rma"
         }
       ]
     },
     {
-      "title": "Girona vs Real Madrid",
+      "title": "Burnley vs Crystal Palace",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://ppv.to/embed/laliga/2025-11-30/gir-rma"
+          "url": "https://ppv.to/embed/epl/2025-12-03/bur-cry"
         }
       ]
     },
     {
-      "title": "Fenerbahce vs Galatasaray",
-      "poster": "https://mrfixitstips.co.uk/app/uploads/2025/11/Fenerbahce-v-Galatasaray-1038x584.jpg",
+      "title": "Arsenal vs Brentford",
+      "poster": "",
       "url": [
         {
-          "source": "HD",
-          "url": "https://spiderembed.top/embed/750038/watchfooty-easy-1-fenerbahce-galatasaray/easy/1"
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/epl/2025-12-03/ars-bre"
+        },
+        {
+      "title": "Leeds United vs Chelsea",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/epl/2025-12-03/lee-che"
+        },
+        {
+      "title": "Liverpool vs Sunderland",
+      "poster": "",
+      "url": [
+        {
+          "source": "Alternate",
+          "url": "https://ppv.to/embed/epl/2025-12-03/liv-sun"
         }
       ]
     }
