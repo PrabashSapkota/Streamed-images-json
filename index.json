@@ -54,13 +54,13 @@
       "title": "Fulham vs Manchester City",
       "poster": "",
       "url": [
-         {
-          "source": "Alternaye",
+        {
+          "source": "Alternate",
           "url": "https://ppv.to/embed/epl/2025-12-02/ful-mci"
         }
       ]
     },
-     {
+    {
       "title": "Barcelona vs Atlético Madrid",
       "poster": "",
       "url": [
@@ -107,24 +107,28 @@
         {
           "source": "Alternate",
           "url": "https://ppv.to/embed/epl/2025-12-03/ars-bre"
-        },
-        {
+        }
+      ]
+    },
+    {
       "title": "Leeds United vs Chelsea",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
           "url": "https://ppv.to/embed/epl/2025-12-03/lee-che"
-        },
-        {
+        }
+      ]
+    },
+    {
       "title": "Manchester United vs West Ham United",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJSiJEFJDcQfELpghEOMxBMgQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "poster": "",
       "url": [
         {
           "source": "Alternate",
           "url": "https://ppv.to/embed/epl/2025-12-04/mun-whu"
         },
-         {
+        {
           "source": "Alternate 2",
           "url": "https://justembeds.xyz/embed/0970d92ab241bd80c4a14b5b625a2557"
         }
