@@ -41,12 +41,12 @@
       "poster": "https://assets.khelnow.com/news/uploads/2025/09/Carlos-Alcaraz-and-Zizou-Bergs-add-Japan-Open-2025-logo.jpg"
     },
     {
-      "title": "Shabaz Masoud vs. Peter McGrail",
+      "title": "Stuttgart vs Bayern Munich",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://playembed.top/embed/shabaz-masoud-vs.-peter-mcgrail"
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr"
         }
       ]
     },
@@ -106,7 +106,7 @@
       "url": [
         {
           "source": "Alternate",
-          "url": "https://playembed.top/embed/epl/2025-12-06/new-bur"
+          "url": "https://cdn-live.tv/api/v1/channels/player/?name=hub+premier+4&code=gb"
         }
       ]
     },
