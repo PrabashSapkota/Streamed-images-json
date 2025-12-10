@@ -4,96 +4,131 @@
       "title": "West Indies tour of New Zealand: New Zealand vs West Indies",
       "poster": "https://img.cricketnmore.com/uploads/2025/11/new-zealand-vs-west-indies-1st-t20i-who-will-win-today-nz-vs-wi-match.jpg"
     },
-    
- {
-  "title": "Qarabağ vs Ajax",
-  "poster": "",
-  "url": [
     {
-      "source": "",
-      "url": ""
+      "title": "Qarabağ vs Ajax",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/qar-ajx"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/5b58b11c693c399811352905a2eea46b"
+        }
+      ]
+    },
+    {
+      "title": "Villarreal vs FC Copenhagen",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/vil-cph"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/b23f7ba13c9af4d51ab78c284235e983"
+        }
+      ]
+    },
+    {
+      "title": "Benfica vs Napoli",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/ben-nap"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/1807586fedaef0ff58626746c74da408"
+        }
+      ]
+    },
+    {
+      "title": "Club Brugge vs Arsenal",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/bru-ars"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/b947ead3e66670bcf220136b4c2deabe"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid vs Manchester City",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/rma-mci"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/20f48743f1b1bf3df82df207b4c4d2cd"
+        }
+      ]
+    },
+    {
+      "title": "Athletic Bilbao vs Paris SG",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/ath-psg"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/86400e1cc7eafa0069694490b9175fa6"
+        }
+      ]
+    },
+    {
+      "title": "Juventus vs Pafos",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/juv-paf"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/887cefd0048ed5e92d215d8b4dd07894"
+        }
+      ]
+    },
+    {
+      "title": "Bayer Leverkusen vs Newcastle United",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/lev-new"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/c9e884d1c699147c3e6e574f6df5c73e"
+        }
+      ]
+    },
+    {
+      "title": "Borussia Dortmund vs Bodø/Glimt",
+      "poster": "",
+      "url": [
+        {
+          "source": "PPV",
+          "url": "https://playembed.top/embed/ucl/2025-12-10/bvb-bod"
+        },
+        {
+          "source": "TIM",
+          "url": "https://justembeds.xyz/embed/d8b2e1d8ca2fc0ce19c154f0a4c369c4"
+        }
+      ]
     }
-  ]
-},
-    {
-  "title": "Villarreal vs FC Copenhagen",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-    {
-  "title": "Benfica vs Napoli",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-    {
-  "title": "Club Brugge vs Arsenal",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-    {
-  "title": "Real Madrid vs Manchester City",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-    {
-  "title": "Athletic Bilbao vs Paris SG",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-      {
-  "title": "Juventus vs Pafos",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-      {
-  "title": "Bayer Leverkusen vs Newcastle United",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-},
-      {
-  "title": "Borussia Dortmund vs Bodø/Glimt",
-  "poster": "",
-  "url": [
-    {
-      "source": "",
-      "url": ""
-    }
-  ]
-}
   ]
 }
