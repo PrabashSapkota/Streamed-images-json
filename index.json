@@ -83,6 +83,10 @@
       "poster": "",
       "url": [
         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316062_2.m3u8"
+        },
+         {
           "source": "PPV",
           "url": "https://playembed.top/embed/epl/2025-12-13/bur-ful"
         }
@@ -114,6 +118,10 @@
       "url": [
         {
           "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316275_2.m3u8"
+        },
+        {
+          "source": "PPV",
           "url": "https://playembed.top/embed/laliga/2025-12-13/bar-osa"
         }
       ]
