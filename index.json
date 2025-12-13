@@ -93,40 +93,32 @@
       ]
     },
     {
-      "title": "Juventus vs Pafos",
+      "title": "Arsenal vs Wolverhampton Wanderers",
       "poster": "",
       "url": [
         {
           "source": "PPV",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_3960747_2.m3u8"
-        },
-        {
-          "source": "TIM",
-          "url": "https://justembeds.xyz/embed/887cefd0048ed5e92d215d8b4dd07894"
+          "url": "https://playembed.top/embed/epl/2025-12-13/ars-wol"
         }
       ]
     },
     {
-      "title": "Bayer Leverkusen vs Newcastle United",
+      "title": "Metz vs Paris SG",
       "poster": "",
       "url": [
         {
           "source": "PPV",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_3960795_2.m3u8"
-        },
-        {
-          "source": "TIM",
-          "url": "https://justembeds.xyz/embed/c9e884d1c699147c3e6e574f6df5c73e"
+          "url": "https://playembed.top/embed/ligue-1/2025-12-13/met-psg"
         }
       ]
     },
     {
-      "title": "Atlético Madrid vs Valencia",
+      "title": "Barcelona vs Osasuna",
       "poster": "",
       "url": [
         {
           "source": "Alternate",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316277_2.m3u8"
+          "url": "https://playembed.top/embed/laliga/2025-12-13/bar-osa"
         }
       ]
     }
