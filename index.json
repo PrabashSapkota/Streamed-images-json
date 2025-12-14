@@ -14,7 +14,7 @@
       "url": [
        {
           "source": "Alternate",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316097_2.m3u8"
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316565_2.m3u8"
         }
       ]
     },
@@ -22,6 +22,10 @@
       "title": "West Ham United vs Aston Villa",
       "poster": "",
       "url": [
+         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316056_2.m3u8"
+        },
         {
           "source": "PPV",
           "url": "https://playembed.top/embed/epl/2025-12-14/whu-avl"
@@ -32,6 +36,10 @@
       "title": "Fiorentina vs Hellas Verona",
       "poster": "",
       "url": [
+         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316559_1.m3u8"
+        },
         {
           "source": "PPV",
           "url": "https://playembed.top/embed/serie-a/2025-12-14/fio-ver"
@@ -42,6 +50,10 @@
       "title": "Udinese vs Napoli",
       "poster": "",
       "url": [
+        {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316554_1.m3u8"
+        },
         {
           "source": "PPV",
           "url": "https://playembed.top/embed/serie-a/2025-12-14/udi-nap"
@@ -71,6 +83,10 @@
       "poster": "",
       "url": [
          {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316057_2.m3u8"
+        },
+         {
           "source": "PPV",
           "url": "https://playembed.top/embed/epl/2025-12-14/nfo-tot"
         }
@@ -80,6 +96,10 @@
       "title": "Sunderland vs Newcastle United",
       "poster": "",
       "url": [
+         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316055_2.m3u8"
+        },
         {
           "source": "PPV",
           "url": "https://playembed.top/embed/epl/2025-12-14/sun-new"
@@ -90,9 +110,23 @@
       "title": "Crystal Palace vs Manchester City",
       "poster": "",
       "url": [
+         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316059_2.m3u8"
+        },
         {
           "source": "PPV",
           "url": "https://playembed.top/embed/epl/2025-12-14/cry-mci"
+        }
+      ]
+    },
+     {
+      "title": "Lyon vs Le Havre",
+      "poster": "",
+      "url": [
+         {
+          "source": "Alternate",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316665_1.m3u8"
         }
       ]
     }
