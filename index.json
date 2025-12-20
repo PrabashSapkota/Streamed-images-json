@@ -24,7 +24,7 @@
       "title": "Tottenham Hotspur vs Liverpool",
       "poster": "",
       "url": [
-          {
+        {
           "source": "PPV",
           "url": "https://pooembed.top/embed/premierleague/2025-12-20/tot-liv"
         }
@@ -51,12 +51,16 @@
       ]
     },
     {
-      "title": "Premier League: Manchester City vs West Ham", 
+      "title": "Premier League: Manchester City vs West Ham",
       "poster": "",
       "url": [
         {
-          "source": "PPV",
+          "source": "Alternate",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4317185_2.m3u8"
+        },
+          {
+          "source": "Tim",
+          "url": "https://justembeds.xyz/embed/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6"
         }
       ]
     },
@@ -98,7 +102,7 @@
         },
         {
           "source": "PPV",
-          "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316059_2.m3u8"
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://play7ba.peodlc.com/live/202_4316059_2.m3u8"
         }
       ]
     },
