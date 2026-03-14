@@ -227,6 +227,10 @@
         {
           "source": "Alternate",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8"
+        },
+        {
+          "source": "Sky Sports",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://grand-s-main.faggotsports.tv/out/v2/8d8f2a99b0a4956504667e55b8b8a524/index.m3u8"
         }
       ]
     },
@@ -237,6 +241,10 @@
         {
           "source": "Alternate",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8"
+        },
+        {
+          "source": "Sky Sports",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8"
         }
       ]
     },
