@@ -225,52 +225,32 @@
       ]
     },
     {
-      "title": "Chelsea vs Newcastle United",
+      "title": "Manchester United vs Aston Villa",
       "poster": "",
       "url": [
         {
-          "source": "Alternate",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8"
-        },
-        {
-          "source": "Sky Sports",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://grand-s-main.faggotsports.tv/out/v2/8d8f2a99b0a4956504667e55b8b8a524/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Arsenal vs Everton",
-      "poster": "",
-      "url": [
-        {
-          "source": "Alternate",
+          "source": "Now Sports",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8"
-        },
-        {
-          "source": "Sky Sports",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8"
         }
       ]
     },
     {
-      "title": "",
+      "title": "Crystal Palace vs Leeds United",
       "poster": "",
       "url": [
         {
-          "source": "Hindi",
-          "url": "https://matcheslinkz.pages.dev/hindi"
-        },
-         {
-          "source": "Sky Sports",
-          "url": "https://embedsports.top/embed/echo/t20-world-cup-final-india-vs-new-zealand-cricket-1/1"
-        },
-         {
-          "source": "English SD",
-          "url": "https://embedsports.top/embed/echo/t20-world-cup-final-india-vs-new-zealand-cricket-1/2"
-        },
+          "source": "Now Sports",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Nottingham Forest vs Fulham",
+      "poster": "",
+      "url": [
         {
-          "source": "Jio",
-          "url": "https://player.kick.com/heyutkarsh"
+          "source": "Now Sports",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8"
         }
       ]
     }
