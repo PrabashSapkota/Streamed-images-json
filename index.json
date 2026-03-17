@@ -219,6 +219,36 @@
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8"
         }
       ]
+    },
+    {
+      "title": "Arsenal vs Bayer Leverkusen",
+      "poster": "",
+      "url": [
+        {
+          "source": "English",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://onebot3c.s3.us-east-1.amazonaws.com/btsport.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Chelsea vs Paris SG",
+      "poster": "",
+      "url": [
+       {
+          "source": "English",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://onebot3c.s3.us-east-1.amazonaws.com/btsport2.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Manchester City vs Real Madrid",
+      "poster": "",
+      "url": [
+        {
+          "source": "English",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://onebot3c.s3.us-east-1.amazonaws.com/btsport3.m3u8"
+        }
+      ]
     }
   ]
 }
