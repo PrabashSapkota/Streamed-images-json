@@ -245,12 +245,12 @@
       "poster": "https://sportsmintmedia.com/wp-content/uploads/2025/03/CSK-RR.jpg",
       "url": [
         {
-          "source": "Fox English - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
-        },
-          {
-          "source": "Star Hindi - Stream 2",
+          "source": "Star Hindi - Stream 1",
           "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
+        },
+        {
+          "source": "Fox English - Stream 2",
+          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
         },
         {
           "source": "Willow Adfree - Stream 3",
