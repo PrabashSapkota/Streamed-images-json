@@ -245,23 +245,19 @@
       "poster": "https://sportsmintmedia.com/wp-content/uploads/2025/03/CSK-RR.jpg",
       "url": [
         {
-          "source": "Star Hindi - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
-        },
-        {
-          "source": "Fox English - Stream 2",
-          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
-        },
-        {
-          "source": "Willow Adfree - Stream 3",
-          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
-        },
-        {
-          "source": "Willow Hindi - Stream 4",
+          "source": "Willow Hindi - Stream 1",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         },
         {
-          "source": "Backup English - Stream 5",
+          "source": "Willow Adfree - Stream 2",
+          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
+        },
+        {
+          "source": "Fox English - Stream 3",
+          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
+        },
+        {
+          "source": "Backup English - Stream 4",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://imgs-001.juno-api-noe.icu/secure/api/v1/lchd-willow.m3u8"
         }
       ]
