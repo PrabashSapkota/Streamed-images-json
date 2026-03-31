@@ -231,19 +231,17 @@
       ]
     },
     {
-      "title": "Colombia vs France",
+      "title": "",
       "poster": "",
       "url": [
        {
-          "source": "No Lag",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://streams.center/embed/ch7.php"
-        }
-      ]
-    },
-    {
-      "title": "Punjab Kings vs Gujarat Titans",
-      "poster": "https://img.cricketnmore.com/uploads/2026/03/pbks-vs-gt-match-4-ipl-2026-preview-predicted-xis-player-tips-match-prediction.jpg",
-      "url": [
+          "source": "Fox English - Stream 4",
+          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
+        },
+        {
+          "source": "Star Hindi - Stream 5",
+          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
+        },
         {
           "source": "Sky English - Stream 1",
           "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
@@ -255,15 +253,33 @@
         {
           "source": "Willow Hindi - Stream 3",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Punjab Kings vs Gujarat Titans",
+      "poster": "https://img.cricketnmore.com/uploads/2026/03/pbks-vs-gt-match-4-ipl-2026-preview-predicted-xis-player-tips-match-prediction.jpg",
+      "url": [
         {
-          "source": "Fox English - Stream 4",
+          "source": "Fox English - Stream 1",
           "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
         },
         {
-          "source": "Star Hindi - Stream 5",
+          "source": "Star Hindi - Stream 2",
           "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
-        }
+        },
+        {
+          "source": "Sky English - Stream 3",
+          "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
+        },
+        {
+          "source": "Willow English - Stream 4",
+          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
+        },
+        {
+          "source": "Willow Hindi - Stream 5",
+          "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
+        } 
       ]
     }
   ]
