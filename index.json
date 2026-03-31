@@ -245,19 +245,23 @@
       "poster": "https://img.cricketnmore.com/uploads/2026/03/pbks-vs-gt-match-4-ipl-2026-preview-predicted-xis-player-tips-match-prediction.jpg",
       "url": [
         {
-          "source": "Willow English - Stream 1",
+          "source": "Sky English - Stream 1",
+          "url": "https://embed.timstreams.fit/embed/sky-sport-1-nz"
+        },
+        {
+          "source": "Willow English - Stream 2",
           "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
         },
         {
-          "source": "Willow Hindi - Stream 2",
+          "source": "Willow Hindi - Stream 3",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         },
         {
-          "source": "Fox English - Stream 3",
+          "source": "Fox English - Stream 4",
           "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
         },
         {
-          "source": "Star Hindi - Stream 4",
+          "source": "Star Hindi - Stream 5",
           "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         }
       ]
