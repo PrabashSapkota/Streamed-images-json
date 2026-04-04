@@ -233,24 +233,30 @@
       ]
     },
     {
-      "title": "Delhi Capitals vs Mumbai Indians",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/23s0ut1712660210.jpg",
+      "title": "Royal Challengers Bangalore vs Chennai Super Kings",
+      "poster": "",
       "url": [
         {
-          "source": "Willow English - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
+          "source": "Star English - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         },
          {
-          "source": "Star Hindi - Stream 2",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8"
-        },
+          "source": "Jio Hindi - Stream 2",
+          "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
+        }
+      ]
+    },
+    {
+      "title": "Sunrisers Hyderabad vs Lucknow Super Giants",
+      "poster": "",
+      "url": [
         {
-          "source": "Star English - Stream 3",
-          "url": "https://tv4wep.pages.dev/?id=STAR%20SPORTS%201%20HD&name=ayna"
+          "source": "Star English - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         },
-        {
-          "source": "Fox English - Stream 4",
-          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
+         {
+          "source": "Jio Hindi - Stream 2",
+          "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
         }
       ]
     }
