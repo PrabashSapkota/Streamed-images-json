@@ -250,18 +250,22 @@
     },
     {
       "title": "Delhi Capitals vs Mumbai Indians",
-      "poster": "",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/23s0ut1712660210.jpg",
       "url": [
         {
-          "source": "Star Hindi - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8"
+          "source": "Willow English - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
         },
+         {
+          "source": "Star Hindi - Stream 2",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8"
+        }
         {
-          "source": "Star English - Stream 2",
+          "source": "Star English - Stream 3",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8"
         },
         {
-          "source": "Fox English - Stream 3",
+          "source": "Fox English - Stream 4",
           "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
         }
       ]
