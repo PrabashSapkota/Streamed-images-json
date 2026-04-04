@@ -223,28 +223,24 @@
       ]
     },
     {
-      "title": "",
-      "poster": "",
+      "title": "Gujarat Titans vs Rajasthan Royals",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/x18tuj1680099047.jpg",
       "url": [
        {
+          "source": "Willow English - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
+        },
+        {
+          "source": "Star Hindi - Stream 2",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS3HD1500.stream/playlist.m3u8"
+        },
+        {
+          "source": "Star English - Stream 3",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8"
+        },
+        {
           "source": "Fox English - Stream 4",
           "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
-        },
-        {
-          "source": "Star Hindi - Stream 5",
-          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
-        },
-        {
-          "source": "Sky English - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
-        },
-        {
-          "source": "Willow English - Stream 2",
-          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
-        },
-        {
-          "source": "Willow Hindi - Stream 3",
-          "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         }
       ]
     },
