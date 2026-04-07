@@ -267,12 +267,20 @@
       "poster": "",
       "url": [
         {
-          "source": "Star Hindi - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
+          "source": "Willow Hindi - Stream 1",
+          "url": "https://go.webcric.com/hindi.htm"
         },
         {
-          "source": "FOX English - Stream 2",
-          "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
+          "source": "SKY English - Stream 2",
+          "url": "https://go.webcric.com/skycricket.htm"
+        },
+        {
+          "source": "Willow English - Stream 2",
+          "url": "https://go.webcric.com/willow.htm"
+        },
+        {
+          "source": "Star English - Stream 2",
+          "url": "https://go.webcric.com/starsports1.htm"
         }
       ]
     }
