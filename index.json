@@ -267,11 +267,7 @@
       "poster": "",
       "url": [
         {
-          "source": "English HD - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
-        },
-        {
-          "source": "SKY HD - Stream 2",
+          "source": "SKY HD - Stream 1",
           "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
         },
          {
@@ -289,6 +285,10 @@
         {
           "source": "SKY English - Stream 5",
           "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
+        },
+        {
+          "source": "English HD - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         }
       ]
     }
