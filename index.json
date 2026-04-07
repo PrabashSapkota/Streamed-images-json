@@ -266,11 +266,7 @@
       "title": "Rajasthan Royals vs Mumbai Indians",
       "poster": "",
       "url": [
-        {
-          "source": "JIO Hindi - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
-        },
-        {
+       {
           "source": "Willow Hindi - Stream 1",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         },
@@ -278,12 +274,16 @@
           "source": "SKY English - Stream 2",
           "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
         },
+         {
+          "source": "JIO Hindi - Stream 3",
+          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
+        },
         {
-          "source": "Willow English - Stream 2",
+          "source": "Willow English - Stream 4",
           "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
         },
         {
-          "source": "Star English - Stream 2",
+          "source": "Star English - Stream 5",
           "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         }
       ]
