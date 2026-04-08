@@ -259,6 +259,14 @@
          {
           "source": "Sky English - Stream 6",
           "url": "https://cinearena-site.vercel.app/skynz"
+        },
+        {
+          "source": "SKY HD - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
+        },
+        {
+          "source": "Hindi HD - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://cineplyr.pages.dev/hotstar2/"
         }
       ]
     },
@@ -267,12 +275,8 @@
       "poster": "",
       "url": [
         {
-          "source": "SKY HD - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/foxsports501hdipllink2026newhd"
-        },
-        {
-          "source": "Hindi HD - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://cineplyr.pages.dev/hotstar2/"
+          "source": "English HD - Stream 5",
+          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         },
          {
           "source": "Willow Hindi - Stream 2",
@@ -285,10 +289,6 @@
         {
           "source": "SKY English - Stream 4",
           "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
-        },
-        {
-          "source": "English HD - Stream 5",
-          "url": "https://ipl-e2c.pages.dev/starsportshdipllink2026newhd"
         }
       ]
     }
