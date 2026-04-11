@@ -237,24 +237,16 @@
       ]
     },
     {
-      "title": "Rajasthan Royals vs. Royal Challengers Bengaluru",
+      "title": "Chennai Super Kings vs Delhi Capitals",
       "poster": "",
       "url": [
         {
-          "source": "FOX English - Stream 1",
-          "url": "https://embed.timstreams.fit/embed/fox-sports-501"
-        },
-       {
-          "source": "Willow Hindi - Stream 2",
+          "source": "Willow Hindi - Stream 1",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         },
         {
-          "source": "Willow English - Stream 3",
+          "source": "Willow English - Stream 2",
           "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
-        },
-        {
-          "source": "Sky Sports HD - Stream 4",
-          "url": "https://embed.timstreams.fit/embed/sky-sport-2-nz"
         }
       ]
     },
