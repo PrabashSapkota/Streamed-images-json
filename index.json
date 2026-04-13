@@ -237,23 +237,19 @@
       ]
     },
     {
-      "title": "Mumbai Indians vs Royal Challengers Bangalore",
+      "title": "Sunrisers Hyderabad vs Rajasthan Royals",
       "poster": "",
       "url": [
         {
-          "source": "Sky English - Stream 1",
-          "url": "https://ipl-e2c.pages.dev/skysports1nzhdipllink2026newhd"
-        },
-        {
-          "source": "ENglish HD - Stream 2",
+          "source": "ENglish HD - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=http://180.94.28.28:8097/STAR-SPORTS-1/index.m3u8"
         },
         {
-          "source": "Willow Hindi - Stream 3",
+          "source": "Willow Hindi - Stream 2",
           "url": "https://ipl-e2c.pages.dev/willow2hindihdipllink2026newhd"
         },
         {
-          "source": "Willow English - Stream 4",
+          "source": "Willow English - Stream 3",
           "url": "https://ipl-e2c.pages.dev/willow1adfreehdipllink2026newhd"
         }
       ]
