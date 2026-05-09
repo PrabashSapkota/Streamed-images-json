@@ -293,11 +293,15 @@
       "poster": "",
       "url": [
         {
-          "source": "Hindi - Stream 1",
+          "source": "Adfree Hindi - Stream 1",
+          "url": "https://ipl-e2c.pages.dev/tntsports1hdfootballlinklatestnew"
+        },
+        {
+          "source": "Hindi - Stream 2",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://cleaners-creations-try-propose.trycloudflare.com/live/951117/ipl2026/hindi/live_stream.m3u8"
         },
         {
-          "source": "Bhojpuri - Stream 2",
+          "source": "Bhojpuri - Stream 3",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://cleaners-creations-try-propose.trycloudflare.com/live/189711/ipl2026/bhojpuri/live_stream.m3u8"
         }
       ]
