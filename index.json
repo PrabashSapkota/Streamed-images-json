@@ -295,16 +295,12 @@
       ]
     },
     {
-      "title": "Delhi Capitals vs Kolkata Knight Riders",
+      "title": "Delhi Capitals vs. Rajasthan Royals",
       "poster": "",
       "url": [
-      {
-          "source": "Hindi HD - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://track-funeral-conducted-cognitive.trycloudflare.com/live/216295/ipl2026/hindi/live_stream.m3u8"
-        },
         {
-          "source": "Bhojpuri HD - Stream 2",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://track-funeral-conducted-cognitive.trycloudflare.com/live/119764/ipl2026/bhojpuri/live_stream.m3u8"
+          "source": "Willow English - Stream 1 ",
+          "url": "https://streamfree.app/embed/cricket/willow"
         }
       ]
     },
