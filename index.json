@@ -239,8 +239,12 @@
       "poster": "",
       "url": [
         {
-          "source": "TELE - All Devices",
+          "source": "TELE - NO IOS",
           "url": "https://testingbintvfun.blogspot.com/?channel=TELE"
+        },
+        {
+          "source": "Premier League - All Devices",
+          "url": "https://fancoodee.pages.dev/?src=https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Flive5.msrktz.app%2Flive%2F97312754.m3u8"
         }
       ]
     },
