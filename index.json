@@ -343,12 +343,20 @@
       "poster": "",
       "url": [
          {
-          "source": "FOX 4K - Stream 1",
-          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox4k-usa"
+          "source": "FOX ENGLISH - Stream 1",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox-usa"
+        },
+         {
+          "source": "Caze TV BR - Stream 2",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/cazetv-br"
         },
         {
-          "source": "FOX ENGLISH - Stream 2",
-          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox-usa"
+          "source": "ITV 1 - Stream 3",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/itv1-uk"
+        },
+        {
+          "source": "FOX 4K - Stream 4",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox4k-usa"
         },
         {
           "source": "Telemundo - NO IOS",
