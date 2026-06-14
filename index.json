@@ -309,27 +309,31 @@
       "poster": "",
       "url": [
          {
-          "source": "Sky Sports F1 - Stream 1",
+          "source": "Fancode HD - Stream 1",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://eboembed.pages.dev/embed/formula1"
+        },
+         {
+          "source": "Sky Sports F1 - Stream 2",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-60.php"
         },
         {
-          "source": "DAZN F1 - Stream 2",
+          "source": "DAZN F1 - Stream 3",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-537.php"
         },
         {
-          "source": "Sky F1 Italy - Stream 3",
+          "source": "Sky F1 Italy - Stream 4",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-577.php"
         },
         {
-          "source": "Sky F1 DE - Stream 4",
+          "source": "Sky F1 DE - Stream 5",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-274.php"
         },
         {
-          "source": "Canal + France - Stream 5",
+          "source": "Canal + France - Stream 6",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-121.php"
         },
         {
-          "source": "Eleven Sports 1 - Stream 6",
+          "source": "Eleven Sports 1 - Stream 7",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://dlhd.pk/stream/stream-71.php"
         }
       ]
