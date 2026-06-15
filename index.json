@@ -291,39 +291,43 @@
       ]
     },
     {
-      "title": "Brazil vs Morocco",
+      "title": "Iran vs. New Zealand",
       "poster": "",
       "url": [
-        {
-          "source": "FOX ENGLISH - Stream 1",
-          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox-usa"
-        },
         {
           "source": "Telemundo - NO IOS",
           "url": "https://prabashsapkota.github.io/ads/?url=https://prabashsapkota.github.io/willo/"
-        }
-      ]
-    },
-    {
-      "title": "Netherlands vs. Japan",
-      "poster": "",
-      "url": [
+        },
          {
           "source": "FOX ENGLISH - Stream 1",
           "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox-usa"
         },
-         {
-          "source": "ITV 1 - Stream 2",
-          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/itv1-uk"
-        },
         {
-          "source": "Telemundo - NO IOS",
-          "url": "https://prabashsapkota.github.io/ads/?url=https://prabashsapkota.github.io/willo/"
+          "source": "FOX 4K - Stream 2",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox4k-usa"
         }
       ]
     },
     {
-      "title": "Spain vs. Cape Verde",
+      "title": "Saudi Arabia vs. Uruguay",
+      "poster": "",
+      "url": [
+         {
+          "source": "Telemundo - NO IOS",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://prabashsapkota.github.io/willo/"
+        },
+         {
+          "source": "FOX ENGLISH - Stream 1",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox-usa"
+        },
+        {
+          "source": "FOX 4K - Stream 2",
+          "url": "https://prabashsapkota.github.io/ads/?url=https://junkieembeds.pages.dev/embed/fox4k-usa"
+        }
+      ]
+    },
+    {
+      "title": "Belgium vs. Egypt",
       "poster": "",
       "url": [
         {
