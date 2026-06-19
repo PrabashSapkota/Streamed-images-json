@@ -281,7 +281,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Türkiye vs. Paraguay",
       "poster": "",
       "url": [
       {
@@ -291,9 +291,13 @@
       ]
     },
     {
-      "title": "Mexico vs. South Korea",
+      "title": "Brazil vs. Haiti",
       "poster": "",
       "url": [
+        {
+          "source": "FOX ENGLISH HD - Stream 1",
+          "url": "https://junkieembeds.pages.dev/embed/fox-usa"
+        },
         {
           "source": "M6 FR - NO IOS",
           "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
@@ -301,28 +305,28 @@
       ]
     },
     {
-      "title": "Switzerland vs. Bosnia-Herzegovina",
+      "title": "Scotland vs. Morocco",
       "poster": "",
       "url": [
-         {
-          "source": "M6 FR - NO IOS",
-          "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
-        },
         {
           "source": "FOX ENGLISH HD - Stream 1",
           "url": "https://junkieembeds.pages.dev/embed/fox-usa"
+        },
+         {
+          "source": "M6 FR - NO IOS",
+          "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
         }
       ]
     },
     {
-      "title": "Canada vs. Qatar",
+      "title": "United States vs. Australia",
       "poster": "",
       "url": [
-         {
+        {
           "source": "FOX ENGLISH HD - Stream 1",
           "url": "https://junkieembeds.pages.dev/embed/fox-usa"
         },
-        {
+         {
           "source": "M6 FR - NO IOS",
           "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
         }
