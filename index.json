@@ -281,26 +281,16 @@
       ]
     },
     {
-      "title": "Türkiye vs. Paraguay",
+      "title": "Germany vs. Ivory Coast",
       "poster": "",
       "url": [
         {
-          "source": "GO LIVE - Stream 1",
-          "url": "https://hlsplayers.pages.dev/bplayer?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+          "source": "FOX HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-1-embed.html"
         },
-      {
-          "source": "M6 FR - NO IOS",
-          "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
-        }
-      ]
-    },
-    {
-      "title": "Brazil vs. Haiti",
-      "poster": "",
-      "url": [
         {
-          "source": "GO LIVE - Stream 1",
-          "url": "https://hlsplayers.pages.dev/bplayer?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+          "source": "FOX HD 4K - Stream 2",
+          "url": "https://xyzstreams.shop/wc-5-embed.html"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -309,12 +299,34 @@
       ]
     },
     {
-      "title": "Scotland vs. Morocco",
+      "title": "Ecuador vs. Curaçao",
       "poster": "",
       "url": [
         {
-          "source": "GO LIVE - Stream 1",
-          "url": "https://hlsplayers.pages.dev/bplayer?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+          "source": "FOX HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-1-embed.html"
+        },
+        {
+          "source": "FOX HD 4K - Stream 2",
+          "url": "https://xyzstreams.shop/wc-5-embed.html"
+        },
+        {
+          "source": "M6 FR - NO IOS",
+          "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
+        }
+      ]
+    },
+    {
+      "title": "Tunisia vs. Japan",
+      "poster": "",
+      "url": [
+        {
+          "source": "FOX HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-1-embed.html"
+        },
+        {
+          "source": "FOX HD 4K - Stream 2",
+          "url": "https://xyzstreams.shop/wc-5-embed.html"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -329,6 +341,10 @@
       {
           "source": "FOX HD - Stream 1",
           "url": "https://xyzstreams.shop/wc-1-embed.html"
+        },
+        {
+          "source": "FOX HD 4K - Stream 2",
+          "url": "https://xyzstreams.shop/wc-5-embed.html"
         },
         {
           "source": "M6 FR - NO IOS",
