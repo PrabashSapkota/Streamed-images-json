@@ -323,14 +323,10 @@
       ]
     },
     {
-      "title": "United States vs. Australia",
+      "title": "Netherlands vs. Sweden",
       "poster": "",
       "url": [
       {
-          "source": "GO LIVE - Stream 2",
-          "url": "https://hlsplayers.pages.dev/bplayer?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
-        },
-        {
           "source": "M6 FR - NO IOS",
           "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
         }
