@@ -281,12 +281,22 @@
       ]
     },
     {
-      "title": "Germany vs. Ivory Coast",
-      "poster": "",
+      "title": "New Zealand vs. Egypt",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/zxmks31775058344.jpg",
+      "url": [
+        {
+          "source": "FOX 1 HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-2-embed"
+        }
+      ]
+    },
+    {
+      "title": "Uruguay vs. Cape Verde",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ga832m1775058346.jpg",
       "url": [
         {
           "source": "FOX HD - Stream 1",
-          "url": "https://xyzstreams.shop/wc-1-embed.html"
+          "url": "https://xyzstreams.shop/wc-2-embed"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -295,26 +305,12 @@
       ]
     },
     {
-      "title": "Ecuador vs. Curaçao",
-      "poster": "",
+      "title": "Belgium vs. Iran",
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/vpptny1781600002.jpg",
       "url": [
         {
-          "source": "FOX HD - Stream 1",
-          "url": "https://xyzstreams.shop/wc-1-embed.html"
-        },
-        {
-          "source": "M6 FR - NO IOS",
-          "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
-        }
-      ]
-    },
-    {
-      "title": "Tunisia vs. Japan",
-      "poster": "",
-      "url": [
-        {
-          "source": "BBC HD - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://xyzstreams.shop/wc-4-embed"
+          "source": "FOX 1 HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-2-embed"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -326,6 +322,10 @@
       "title": "Spain vs. Saudi Arabia",
       "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",
       "url": [
+        {
+          "source": "FOX 1 HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-2-embed"
+        },
         {
           "source": "M6 FR - NO IOS",
           "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
