@@ -296,7 +296,7 @@
       "url": [
         {
           "source": "FOX HD - Stream 1",
-          "url": "https://xyzstreams.shop/wc-2-embed"
+          "url": "https://findleembeds.pages.dev/embed/fox-usa"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -322,6 +322,10 @@
       "title": "Spain vs. Saudi Arabia",
       "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",
       "url": [
+        {
+          "source": "FOX 1 HD - Stream 1",
+          "url": "https://xyzstreams.shop/wc-2-embed"
+        },
         {
           "source": "M6 FR - NO IOS",
           "url": "https://ipl-e2c.pages.dev/m6frhdnewchanneladded"
