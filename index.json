@@ -323,8 +323,8 @@
       "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",
       "url": [
         {
-          "source": "GO SPORT HD - Stream 1",
-          "url": "https://hlsplayers.pages.dev/player3?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+          "source": "TRT 1 - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8"
         },
         {
           "source": "M6 FR - NO IOS",
@@ -333,6 +333,10 @@
         {
           "source": "FOX 1 HD - Stream 2",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://xyzstreams.shop/wc-1-embed.html"
+        },
+        {
+          "source": "GO SPORT HD - Stream 3",
+          "url": "https://hlsplayers.pages.dev/player3?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
         }
       ]
     }
