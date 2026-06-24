@@ -271,13 +271,45 @@
       ]
     },
    {
+      "title": "Czechia vs. Mexico",
+      "poster": "",
+      "url": [
+        {
+          "source": "FOX  HD - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-usa.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Scotland vs. Brazil",
+      "poster": "",
+      "url": [
+        {
+          "source": "FOX HD - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-usa.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland vs. Canada",
+      "poster": "",
+      "url": [
+        {
+          "source": "FOX HD - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-usa.m3u8"
+        }
+      ]
+    },
+    {
       "title": "South Africa vs. South Korea",
       "poster": "",
       "url": [
         {
           "source": "FOX 1 HD - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-sports-1.m3u8"
-        },
+        }
+      ]
+    },
     {
       "title": "Morocco vs. Haiti",
       "poster": "",
@@ -285,7 +317,9 @@
         {
           "source": "FOX 1 HD - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-sports-1.m3u8"
-        },
+        }
+      ]
+    },
     {
       "title": "Bosnia-Herzegovina vs. Qatar",
       "poster": "",
