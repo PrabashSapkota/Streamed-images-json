@@ -326,11 +326,7 @@
       "url": [
         {
           "source": "TSN 1 - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://embedhd.pk/embed/hd-1.php"
-        },
-         {
-          "source": "TELEMUNDO - Stream 2",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://embedhd.pk/embed/hd-3.php"
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://mvz-s3.s3.eu-north-1.amazonaws.com/wuz/v2_720p60.m3u8"
         }
       ]
     }
