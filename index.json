@@ -317,6 +317,10 @@
        {
           "source": "FOX 1 - Stream 2",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/fox-usa.m3u8"
+        },
+        {
+          "source": "TELEMUNDO - Stream 2",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/telemundo-usa.m3u8"
         }
       ]
     },
