@@ -301,40 +301,28 @@
       "poster": "",
       "url": [
         {
-          "source": "TSN 1 - Stream 1",
-          "url": "https://fancoodee.pages.dev/?src=https://cineplyr2.pages.dev/plyr/p6/?url=https://ataide0.formaturamaxi.com.br/tsn.m3u8"
-        },
-        {
-          "source": "NTV STREAM - NO IOS",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://prabashsapkota.github.io/willo/"
+          "source": "GOL TV - NO IOS",
+          "url": "https://prabashsapkota.github.io/willo/"
         }
       ]
     },
     {
-      "title": "South Africa vs. Canada",
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/1e93ji1782546609.jpg",
+      "title": "Netherlands vs. Morocco",
+      "poster": "",
       "url": [
        {
-          "source": "FOX 1 - Stream 2",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/fox-usa.m3u8"
-        },
-        {
-          "source": "TELEMUNDO - Stream 2",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://cdn011.viaplus.site/telemundo-usa.m3u8"
+          "source": "GOL TV - NO IOS",
+          "url": "https://prabashsapkota.github.io/willo/"
         }
       ]
     },
     {
-      "title": "Brazil vs. Japan",
-      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiljpW3w5zhe2Ie4OMQ4t496tu5xfs6_bBPhfHj2NzVGE29ECi_psLnxI8o_LvdmLtRlTvnSVt4kxRt7XLFqVoP38EynnZnDTYbaJoilsH878twNm_FzBy-_ut6gV04KxRlPvg4O5s5yjVdz5s4CvnaV6V-jEgF5d6M6tQtzJfBED1LRwLLDWHyQ9X6zw/s1672/Jun%2029,%202026,%2009_31_05%20PM.png",
+      "title": "Germany vs. Paraguay",
+      "poster": "",
       "url": [
         {
           "source": "GOL TV - NO IOS",
           "url": "https://prabashsapkota.github.io/willo/"
-        },
-        {
-          "source": "Backup - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.paznhl.app/live/24561735.m3u8"
         }
       ]
     }
