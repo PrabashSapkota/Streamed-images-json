@@ -325,20 +325,12 @@
       ]
     },
     {
-      "title": "Panama vs England",
+      "title": "Brazil vs. Japan",
       "poster": "",
       "url": [
         {
-          "source": "TSN 1 - Stream 1",
-          "url": "https://fancoodee.pages.dev/?src=https://cineplyr2.pages.dev/plyr/p6/?url=https://ataide0.formaturamaxi.com.br/tsn.m3u8"
-        },
-        {
-          "source": "TELEMUNDO - Stream 2",
-          "url": "https://fancoodee.pages.dev/?src=https://cineplyr2.pages.dev/plyr/p6/?url=https://daffodil.formaturamaxi.com.br/tele.m3u8"
-        },
-        {
-          "source": "PC AND ANDROID ONLY (NTV)",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://prabashsapkota.github.io/willo/"
+          "source": "TELEMUNDO - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
         }
       ]
     }
