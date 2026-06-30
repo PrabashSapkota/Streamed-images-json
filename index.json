@@ -314,8 +314,12 @@
           "source": "NO DELAY (Chinese) - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.paznhl.app/live/24561735.m3u8"
         },
+        {
+          "source": "FOX FHD - Stream 2",
+          "url": "https://xyzstreams.st/wc-1-embed"
+        },
        {
-          "source": "TSN FHD - Stream 2",
+          "source": "TSN FHD - Stream 3",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://crestfallc.s3.eu-north-1.amazonaws.com/sportsnet.m3u8"
         }
       ]
