@@ -277,7 +277,7 @@
       ]
     },
     {
-      "title": "Scotland vs. Brazil",
+      "title": "England vs. Congo ",
       "poster": "",
       "url": [
         {
@@ -287,12 +287,40 @@
       ]
     },
     {
-      "title": "Switzerland vs. Canada",
+      "title": "England vs. Congo DRs",
       "poster": "",
       "url": [
+       {
+          "source": "FOX FHD - Stream 1",
+          "url": "https://xyzstreams.st/wc-1-embed"
+        },
         {
-          "source": "FOX HD - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://inproviszon.st/fox-usa.m3u8"
+          "source": "FOX 4K HD - Stream 2",
+          "url": "https://xyzstreams.st/wc-5-embed"
+        },
+        {
+          "source": "STV HD - Stream 3",
+          "url": "https://xyzstreams.st/wc-3-embed"
+        },
+        {
+          "source": "BBC HD - Stream 4",
+          "url": "https://xyzstreams.st/wc-4-embed"
+        },
+        {
+          "source": "TELEMUNDO HD - Stream 5",
+          "url": "https://xyzstreams.st/wc-6-embed"
+        },
+        {
+          "source": "TSN 1 HD - Stream 6",
+          "url": "https://xyzstreams.st/wc-7-embed"
+        },
+        {
+          "source": "TSN 4 HD - Stream 7",
+          "url": "https://xyzstreams.st/wc-8-embed"
+        },
+        {
+          "source": "BEIN 4K - Stream 7",
+          "url": "https://xyzstreams.st/wc-10-embed"
         }
       ]
     },
