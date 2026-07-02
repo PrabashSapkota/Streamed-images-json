@@ -332,14 +332,6 @@
           "source": "NO DELAY (Chinese) - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.koepgd.app/live/24561735.m3u8"
         },
-         {
-          "source": "FOX FHD - Stream 1",
-          "url": "https://xyzstreams.st/wc-1-embed"
-        },
-        {
-          "source": "FOX 4K HD - Stream 2",
-          "url": "https://xyzstreams.st/wc-5-embed"
-        },
         {
           "source": "STV HD - Stream 3",
           "url": "https://xyzstreams.st/wc-3-embed"
@@ -373,6 +365,10 @@
         {
           "source": "NO DELAY (Chinese) - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.koepgd.app/live/24561735.m3u8"
+        },
+         {
+          "source": "FOX FHD - Stream 1",
+          "url": "https://xyzstreams.st/wc-1-embed"
         },
         {
           "source": "TSN 1 HD - Stream 2",
