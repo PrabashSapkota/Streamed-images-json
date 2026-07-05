@@ -364,20 +364,16 @@
           "url": "https://ipl-e2c.pages.dev/tsn1hdnewchanneladded"
         },
         {
-          "source": "GOL TV - NO IOS",
-          "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
-        },
-        {
-          "source": "NO DELAY .(Chinese) - Streams 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.koepgd.app/live/08552895.m3u8"
-        },
-        {
           "source": "FOX FHD - Stream 2",
           "url": "https://xyzstreams.st/wc-1-embed.html"
         },
         {
           "source": "FOX 4K HD - Stream 3",
           "url": "https://xyzstreams.st/wc-5-embed.html"
+        },
+        {
+          "source": "GOL TV - NO IOS",
+          "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
         }
       ]
     }
