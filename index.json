@@ -372,16 +372,20 @@
           "url": "https://vileembeds.pages.dev/embed/fox4k-usa"
         },
         {
+          "source": "BBC 4K - Stream 5",
+          "url": "https://vileembeds.pages.dev/embed/bbc-4k"
+        },
+        {
+          "source": "Telemundo - Stream 5",
+          "url": "https://vileembeds.pages.dev/embed/telemund0-usa"
+        },
+        {
+          "source": "Bein MENA 4K - Stream 6",
+          "url": "https://vileembeds.pages.dev/embed/beinsportsuhd-sa"
+        },
+        {
           "source": "GOL TV - NO IOS",
           "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
-        },
-        {
-          "source": "FOX FHD (NOT STABLE) - Stream 4",
-          "url": "https://xyzstreams.st/wc-1-embed.html"
-        },
-        {
-          "source": "FOX 4K HD (NOT STABLE) - Stream 5",
-          "url": "https://xyzstreams.st/wc-5-embed.html"
         }
       ]
     }
