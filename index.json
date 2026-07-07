@@ -364,36 +364,32 @@
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.bfgrut.app/live/08552895.m3u8"
         },
         {
-          "source": "Smooth Link - NO Lag",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://hls.live123.fans/live/4459806.m3u8"
-        },
-        {
           "source": "GOL TV - NO IOS",
           "url": "https://ipl-e2c.pages.dev/tsn1hdnewchanneladded"
         },
-        {
-          "source": "FOX FHD - Stream 2",
-          "url": "https://vileembeds.pages.dev/embed/fox-usa"
+         {
+          "source": "SporTV - NO IOS",
+          "url": "https://prabashsapkota.github.io/willo/"
         },
         {
-          "source": "FOX 4K HD - Stream 3",
+          "source": "FOX HD - Stream 1",
+          "url": "https://vileembeds.pages.dev/embed/fox-usa"
+        },
+         {
+          "source": "WC TV - Stream 2",
+          "url": "https://vileembeds.pages.dev/embed/worldcup-1"
+        },
+        {
+          "source": "FOX 4K - Stream 3",
           "url": "https://vileembeds.pages.dev/embed/fox4k-usa"
         },
         {
-          "source": "BBC 4K - Stream 5",
-          "url": "https://vileembeds.pages.dev/embed/bbc-4k"
-        },
-        {
-          "source": "Telemundo - Stream 5",
+          "source": "TELEMUNDO - Stream 4",
           "url": "https://vileembeds.pages.dev/embed/telemund0-usa"
         },
         {
-          "source": "Bein Arabic - Stream 6",
-          "url": "https://xyzstreams.st/wc-17-embed.html"
-        },
-         {
-          "source": "Bein MENA 4K - Stream 7",
-          "url": "https://vileembeds.pages.dev/embed/beinsportsuhd-sa"
+          "source": "FUSSBALL 4K - Stream 5",
+          "url": "https://vileembeds.pages.dev/embed/fussballtv1uhd-de"
         }
       ]
     }
