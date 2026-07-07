@@ -363,28 +363,24 @@
           "source": "NO DELAY .(Chinese) - Streams 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.bfgrut.app/live/08552895.m3u8"
         },
-         {
-          "source": "SporTV - NO IOS",
-          "url": "https://prabashsapkota.github.io/willo/"
-        },
         {
-          "source": "FOX HD - Stream 1",
+          "source": "FOX HD - Stream 2",
           "url": "https://vileembeds.pages.dev/embed/fox-usa"
         },
          {
-          "source": "WC TV - Stream 2",
+          "source": "WC TV - Stream 3",
           "url": "https://vileembeds.pages.dev/embed/worldcup-1"
         },
         {
-          "source": "FOX 4K - Stream 3",
+          "source": "FOX 4K - Stream 4",
           "url": "https://vileembeds.pages.dev/embed/fox4k-usa"
         },
         {
-          "source": "TELEMUNDO - Stream 4",
+          "source": "TELEMUNDO - Stream 5",
           "url": "https://vileembeds.pages.dev/embed/telemund0-usa"
         },
         {
-          "source": "FUSSBALL 4K - Stream 5",
+          "source": "FUSSBALL 4K - Stream 6",
           "url": "https://vileembeds.pages.dev/embed/fussballtv1uhd-de"
         }
       ]
