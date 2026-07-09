@@ -368,10 +368,6 @@
           "url": "https://ipl-e2c.pages.dev/tsn1hdnewchanneladded"
         },
         {
-          "source": "FOX FHD - Stream 2",
-          "url": "https://ritzembeds.pages.dev/embed/fox-usa"
-        },
-        {
           "source": "FOX HD - Stream 3",
           "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/fox"
         },
@@ -388,7 +384,11 @@
           "url": "https://ritzembeds.pages.dev/embed/fussballtv1uhd-de"
         },
         {
-          "source": "ARABIC  - Stream 7",
+          "source": "FOX FHD - Stream 7",
+          "url": "https://ritzembeds.pages.dev/embed/fox-usa"
+        },
+        {
+          "source": "ARABIC  - Stream 8",
           "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/tsn-ar"
         }
       ]
