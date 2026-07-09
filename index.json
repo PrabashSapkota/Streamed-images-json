@@ -372,10 +372,6 @@
           "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/fox"
         },
         {
-          "source": "FOX 4K - Stream 4",
-          "url": "https://ritzembeds.pages.dev/embed/fox4k-usa"
-        },
-        {
           "source": "TELEMUNDO - Stream 5",
           "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/telemundo"
         },
@@ -390,6 +386,10 @@
         {
           "source": "ARABIC  - Stream 8",
           "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/tsn-ar"
+        },
+        {
+          "source": "FOX 4K - Stream 4",
+          "url": "https://ritzembeds.pages.dev/embed/fox4k-usa"
         }
       ]
     }
