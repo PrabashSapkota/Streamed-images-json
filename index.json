@@ -356,40 +356,28 @@
       ]
     },
     {
-      "title": "France vs. Morocco",
-      "poster": "https://sportskhabri.com/wp-content/uploads/2026/07/France-vs-Morocco-_-FIFA-World-Cup-Quarterfinals-_-Preview-and-Predictions.webp",
+      "title": "Spain vs. Belgium",
+      "poster": "https://sportskhabri.com/wp-content/uploads/2026/07/Spain-vs-Belgium-_-FIFA-World-Cup-Quarterfinals-_-Preview-and-Predictions.webp",
       "url": [
         {
-          "source": "NO DELAY .(Chinese) - Streams 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.grita.app/live/24561735.m3u8"
+          "source": "TSN 1 HD - Stream 1",
+          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel"
         },
         {
-          "source": "GOL TV - NO IOS",
-          "url": "https://ipl-e2c.pages.dev/tsn1hdnewchanneladded"
+          "source": "FOX HD - Stream 2",
+          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/fox"
         },
         {
-          "source": "FOX HD - Stream 3",
-          "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/fox"
+          "source": "BBC / ITV - Stream 3",
+          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/uk"
         },
         {
-          "source": "TELEMUNDO - Stream 5",
-          "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/telemundo"
+          "source": "beIN 1 FR - Stream 4",
+          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/bein-sports-1"
         },
         {
-          "source": "FUSSBALL 4K - Stream 6",
-          "url": "https://ritzembeds.pages.dev/embed/fussballtv1uhd-de"
-        },
-        {
-          "source": "FOX FHD - Stream 7",
-          "url": "https://ritzembeds.pages.dev/embed/fox-usa"
-        },
-        {
-          "source": "ARABIC  - Stream 8",
-          "url": "https://embedindia.st/embed/wc/2026-07-09/fra-mar/tsn-ar"
-        },
-        {
-          "source": "FOX 4K - Stream 4",
-          "url": "https://ritzembeds.pages.dev/embed/fox4k-usa"
+          "source": "Telemundo HD  - Stream 5",
+          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/telemundo"
         }
       ]
     }
