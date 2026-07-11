@@ -360,28 +360,24 @@
       "poster": "https://sportskhabri.com/wp-content/uploads/2026/07/Norway-vs-England-_-FIFA-World-Cup-Quarterfinals-_-Preview-and-Predictions.webp",
       "url": [
          {
-          "source": "NO DELAY .(Chinese) - Streams 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.grita.app/live/78905744.m3u8"
-        },
-        {
           "source": "TSN 1 HD - Stream 1",
-          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel"
+          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng"
         },
         {
           "source": "FOX HD - Stream 2",
-          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/fox"
+          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/fox-en"
         },
         {
           "source": "BBC / ITV - Stream 3",
-          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/uk"
+          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/uk"
         },
         {
           "source": "beIN 1 FR - Stream 4",
-          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/bein-sports-1"
+          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/bein-sports-1-fr"
         },
         {
           "source": "Telemundo HD  - Stream 5",
-          "url": "https://embedindia.st/embed/wc/2026-07-10/esp-bel/telemundo"
+          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/telemundo-es"
         }
       ]
     }
