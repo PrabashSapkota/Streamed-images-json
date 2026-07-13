@@ -376,44 +376,16 @@
       ]
     },
     {
-      "title": "Norway vs. England",
-      "poster": "https://sportskhabri.com/wp-content/uploads/2026/07/Norway-vs-England-_-FIFA-World-Cup-Quarterfinals-_-Preview-and-Predictions.webp",
+      "title": "France vs. Spain",
+      "poster": "https://sportskhabri.com/wp-content/uploads/2026/07/France-vs-Spain-FIFA-World-Cup-Semifinals-Preview-and-Predictions-.webp",
       "url": [
         {
-          "source": "NO DELAY (Chinese) - Streams 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.grita.app/live/24561735.m3u8"
+          "source": "Spanish - NO IOS",
+          "url": "https://prabashsapkota.github.io/willo/"
         },
         {
           "source": "WC TV - NO IOS (Wait 10 Sec to Load)",
           "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
-        },
-        {
-          "source": "FOX FHDs - Stream 1",
-          "url": "ritzembeds.pages.dev/embed/fox-usa"
-        },
-        {
-          "source": "FOX 4Ks - Stream 2",
-          "url": "ritzembeds.pages.dev/embed/fox4k-usa"
-        },
-        {
-          "source": "TSN 1 HD - Stream 3",
-          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng"
-        },
-        {
-          "source": "FOX HD - Stream 4",
-          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/fox-en"
-        },
-        {
-          "source": "BBC / ITV - Stream 5",
-          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/uk"
-        },
-        {
-          "source": "beIN 1 FR - Stream 6",
-          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/bein-sports-1-fr"
-        },
-        {
-          "source": "Telemundo HD  - Stream 7",
-          "url": "https://embedindia.st/embed/wc/2026-07-11/nor-eng/telemundo-es"
         }
       ]
     }
