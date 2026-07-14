@@ -388,19 +388,27 @@
           "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
         },
         {
-          "source": "TSN 1 HD - Stream 1",
+          "source": "FOX FHD - Stream 1",
+          "url": "https://player.xyzstreams.st/embed/fox-usa"
+        },
+        {
+          "source": "FOX 4K - Stream 2",
+          "url": "https://player.xyzstreams.st/embed/fox4k-usa"
+        },
+        {
+          "source": "TSN 1 HD - Stream 3",
           "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp"
         },
         {
-          "source": "FOX FHD - Stream 2",
+          "source": "FOX FHD - Stream 4",
           "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/fox-en"
         },
         {
-          "source": "BBC/ITV - Stream 3",
+          "source": "BBC/ITV - Stream 5",
           "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/uk"
         },
         {
-          "source": "TELEMUNDO - Stream 4",
+          "source": "TELEMUNDO - Stream 6",
           "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/telemundo-es"
         }
       ]
