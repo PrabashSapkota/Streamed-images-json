@@ -389,11 +389,11 @@
         },
         {
           "source": "FOX FHD - Stream 1",
-          "url": "ritzembeds.pages.dev/embed/fox-usa"
+          "url": "https://ritzembeds.pages.dev/embed/fox-usa"
         },
         {
           "source": "FOX 4K - Stream 2",
-          "url": "ritzembeds.pages.dev/embed/fox4k-usa"
+          "url": "https://ritzembeds.pages.dev/embed/fox4k-usa"
         },
         {
           "source": "TSN 1 HD - Stream 3",
