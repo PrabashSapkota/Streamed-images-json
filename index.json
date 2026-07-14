@@ -386,6 +386,22 @@
         {
           "source": "WC TV - NO IOS (Wait 10 Sec to Load)",
           "url": "https://ipl-e2c.pages.dev/cignaltvhdnewchanneladded"
+        },
+        {
+          "source": "TSN 1 HD - Stream 1",
+          "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp"
+        },
+        {
+          "source": "FOX FHD - Stream 2",
+          "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/fox-en"
+        },
+        {
+          "source": "BBC/ITV - Stream 3",
+          "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/uk"
+        },
+        {
+          "source": "TELEMUNDO - Stream 4",
+          "url": "https://embedindia.st/embed/wc/2026-07-14/fra-esp/telemundo-es"
         }
       ]
     }
