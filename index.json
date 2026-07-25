@@ -21,8 +21,8 @@
       ]
     },
     {
-      "title": "Hungarian Grand Prix - Practice 3",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kwigxm1774920372.jpg",
+      "title": "Hungarian Grand Prix - Qualifying",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/vjz7351774920382.jpg",
       "url": [
         {
           "source": "Apple TV - NO IOS",
@@ -31,9 +31,14 @@
       ]
     },
     {
-      "title": "UFC Fight Night: Ankalaev vs. Guskov",
+      "title": "UFC Fight Night: Ankalaev vs. Gusko",
       "poster": "https://www.thesportsdb.com/images/media/event/fanart/a5klio1784551165.jpg",
-      "url": []
+      "url": [
+        {
+          "source": "English Stream",
+          "url": "https://nigembeds.pages.dev/embed/ufc-329"
+        }
+      ]
     },
     {
       "title": "UFC 329: McGregor vs. Holloway 2",
