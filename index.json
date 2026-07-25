@@ -46,11 +46,15 @@
       "url": [
         {
           "source": "LFCTV - Stream 1",
-          "url": "https://fancoodee.pages.dev/?src=https://dlhd.pk/stream/stream-826.php"
+          "url": "https://fancoodee.pages.dev/?src=https://hoofoot.ru/iptv/player.html?id=ODI2"
         },
         {
           "source": "NO Delay - Stream 2",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/78905744.m3u8"
+        },
+        {
+          "source": "LFCTV - Stream 3",
+          "url": "https://fancoodee.pages.dev/?src=https://dlhd.pk/stream/stream-826.php"
         }
       ]
     },
