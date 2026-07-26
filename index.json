@@ -21,11 +21,15 @@
       ]
     },
     {
-      "title": "Hungarian Grand Prix - Qualifying",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/vjz7351774920382.jpg",
+      "title": "Hungarian Grand Prix - Race",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/xldkhf1774920392.jpg",
       "url": [
         {
-          "source": "SKY - Stream 1",
+          "source": "DAZN - Stream 1",
+          "url": "https://logic.icelanders.st/embed/daznf1-es"
+        },
+         {
+          "source": "SKY - Stream 2",
           "url": "https://logic.icelanders.st/embed/skysport1-nz"
         }
       ]
