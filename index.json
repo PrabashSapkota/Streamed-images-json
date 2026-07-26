@@ -25,8 +25,16 @@
       "poster": "https://r2.thesportsdb.com/images/media/event/thumb/xldkhf1774920392.jpg",
       "url": [
         {
-          "source": "SKY Sports F1 - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://maslaz.com/lazzy?t=1"
+          "source": "SKY Sports NZ - Stream 1",
+          "url": "https://logic.icelanders.st/embed/skysport1-nz"
+        },
+        {
+          "source": "SKY Sports F1 - Stream 2",
+          "url": "https://logic.icelanders.st/embed/skysportsf1-uk"
+        },
+        {
+          "source": "4K Stream - Stream 3",
+          "url": "https://logic.icelanders.st/embed/skysport14k-nz"
         }
       ]
     },
