@@ -11,16 +11,12 @@
       "url": []
     },
     {
-      "title": "Real Madrid vs. Leganés",
-      "poster": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kyhxrsmqrbrywvpvqn.jpg",
+      "title": "Real Madrid vs. Fiorentina",
+      "poster": "",
       "url": [
         {
-          "source": "RMTV English - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8"
-        },
-        {
-          "source": "RMTV Spanish - Stream 2",
-          "url": "https://prabashsapkota.github.io/willo/"
+          "source": "NO DELAY - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/78905744.m3u8"
         }
       ]
     },
