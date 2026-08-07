@@ -31,12 +31,16 @@
       ]
     },
     {
-      "title": "AGF vs. Sabah FK",
+      "title": "Wolverhampton Wanderers vs. Port Vale",
       "poster": "",
       "url": [
         {
-          "source": "NO DELAY - Stream 1",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/07808742.m3u8"
+          "source": "Sky Sports + - Stream 1",
+          "url": "https://stream-guard-orb.lovable.app/watch/sky-sports-plus"
+        },
+        {
+          "source": "NO DELAY - Stream 2",
+          "url": "https://live05.meung.app/live/41943555.m3u8"
         }
       ]
     },
