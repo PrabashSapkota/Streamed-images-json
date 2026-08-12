@@ -25,10 +25,6 @@
       "poster": "",
       "url": [
         {
-          "source": "Premier Sports 1 - NO IOS",
-          "url": "https://prabashsapkota.github.io/willo/"
-        },
-        {
           "source": "NO DELAY - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/08552895.m3u8"
         },
@@ -64,6 +60,10 @@
       "title": "Paris Saint-Germain vs. Aston Villa",
       "poster": "",
       "url": [
+        {
+          "source": "NO DELAY - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https:/live05.meung.app/live/08552895.m3u8"
+        },
         {
           "source": "NO DELAY - Stream 1",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https:/live05.meung.app/live/08552895.m3u8"
