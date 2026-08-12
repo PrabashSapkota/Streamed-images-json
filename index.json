@@ -65,8 +65,12 @@
           "url": "https://proxy-play-hls.lovable.app/https:/live05.meung.app/live/08552895.m3u8"
         },
         {
-          "source": "TNT Sports 1 - Stream 1",
+          "source": "TNT Sports 1 - Stream 2",
           "url": "https://cdx-08192.website/embed/btsports1-uk"
+        },
+        {
+          "source": "CBS Sports Network - Stream 3",
+          "url": "https://proxy-play-hls.lovable.app/https:/chatgpt.hereisman.net/playlist/54529/load-playlist/https:/gooz.aapmains.net"
         }
       ]
     },
