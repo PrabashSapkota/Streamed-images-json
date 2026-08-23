@@ -31,12 +31,12 @@
       ]
     },
     {
-      "title": "Dutch Grand Prix - Qualifyinfg",
+      "title": "Manchester City vs. AFC Bournemouth",
       "poster": "",
       "url": [
         {
-          "source": "TSN 5 - NO IOS",
-          "url": ""
+          "source": "TUDN - Stream 1",
+          "url": "https://proxy-play-hls.lovable.app/https:/streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
         }
       ]
     },
