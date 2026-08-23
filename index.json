@@ -81,12 +81,16 @@
       ]
     },
     {
-      "title": "Dutch Grand Prixqqw - Race",
+      "title": "Dutch Grand Prix - Race",
       "poster": "",
       "url": [
         {
-          "source": "Fancode - NO IOS",
-          "url": "https://clear-key-view.lovable.app/watch/fancode"
+          "source": "Sky Sports F1 - Stream 1",
+          "url": "https://cdx-08192.website/embed/skysportsf1-uk"
+        },
+        {
+          "source": "Apple TV - Stream 2",
+          "url": "https://cdx-08192.website/embed/apple-tv"
         }
       ]
     },
