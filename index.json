@@ -35,27 +35,7 @@
       ]
     },
     {
-      "title": "AC Milan vs. Venezia",
-      "poster": "",
-      "url": [
-        {
-          "source": "NO DELAY - Stream 1",
-          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/75915087.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Lille vs. Paris Saint-Germain",
-      "poster": "",
-      "url": [
-        {
-          "source": "NO DELAY - Stream 1",
-          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/02456966.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Crystal Palace vs. Manchester City",
+      "title": "AFC Bournemouth vs. Everton",
       "poster": "",
       "url": [
         {
@@ -65,22 +45,42 @@
       ]
     },
     {
-      "title": "Alavés vs. Villarreal",
+      "title": "SV Elversberg vs. Bayer Leverkusen",
       "poster": "",
       "url": [
         {
-          "source": "NO DLEAY - Stream 1",
+          "source": "NO DELAY - Stream 1",
+          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/41943555.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Mainz vs. SC Paderborn 07",
+      "poster": "",
+      "url": [
+        {
+          "source": "NO DELAY - Stream 1",
           "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/99121525.m3u8"
         }
       ]
     },
     {
-      "title": "Elche vs. Barcelona",
+      "title": "FC Cologne vs. TSG Hoffenheim",
+      "poster": "",
+      "url": [
+        {
+          "source": "NO DLEAY - Stream 1",
+          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/16226575.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Levante vs. Real Betis",
       "poster": "",
       "url": [
         {
           "source": "NO DELAY - Streams 1",
-          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/33982309.m3u8"
+          "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/59444581.m3u8"
         }
       ]
     },
