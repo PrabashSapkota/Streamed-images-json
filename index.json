@@ -25,7 +25,11 @@
       "poster": "",
       "url": [
         {
-          "source": "NO DLEAY - Stream 1",
+          "source": "Sky SPort - Stream 1",
+          "url": "https://epiembeds.online/embed/skysportsmainevent-uk"
+        },
+        {
+          "source": "NO DLEAY - Stream 2",
           "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/78905744.m3u8"
         }
       ]
