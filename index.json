@@ -39,7 +39,11 @@
       "poster": "",
       "url": [
         {
-          "source": "NO DELAY - Stream 1",
+          "source": "Sky - Stream 1",
+          "url": "https://epiembeds.online/embed/skysportsmainevent-uk"
+        },
+        {
+          "source": "NO DELAY - Stream 2",
           "url": "https://proxy-play-hls.lovable.app/https:/live05.meung.app/live/78905744.m3u8"
         }
       ]
@@ -48,6 +52,10 @@
       "title": "Leeds United vs. Brentford",
       "poster": "",
       "url": [
+        {
+          "source": "Sky - Stream 1",
+          "url": "https://epiembeds.online/embed/skysportspremierleague-uk"
+        },
         {
           "source": "NO DELAY - Stream 1",
           "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/90865415.m3u8"
@@ -59,7 +67,11 @@
       "poster": "",
       "url": [
         {
-          "source": "NO DELAY - Stream 1",
+          "source": "Astro - Stream 1",
+          "url": "https://epiembeds.online/embed/astropremierleague3-my"
+        },
+         {
+          "source": "NO DELAY - Stream 2",
           "url": "https://proxy-play-hls.lovable.app/https:/live05.meung.app/live/82054853.m3u8"
         }
       ]
