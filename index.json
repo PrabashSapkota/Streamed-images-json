@@ -38,11 +38,7 @@
       "title": "Chelsea vs. Brighton & Hove Albion",
       "poster": "",
       "url": [
-        {
-          "source": "Sky - Stream 1",
-          "url": "https://epiembeds.online/embed/skysportsmainevent-uk"
-        },
-        {
+        {{
           "source": "NO DELAY - Stream 2",
           "url": "https://proxy-play-hls.lovable.app/https:/live05.meung.app/live/78905744.m3u8"
         }
