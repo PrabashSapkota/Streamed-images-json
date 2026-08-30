@@ -129,7 +129,11 @@
       "poster": "",
       "url": [
         {
-          "source": "NO DLEAY - Stream 1",
+          "source": "Astro - Stream 1",
+          "url": "https://epiembeds.online/embed/astropremierleague-my"
+        },
+         {
+          "source": "NO DLEAY - Stream 2",
           "url": "https://proxy-play-hls.lovable.app/https://live05.miekgo.app/live/07808742.m3u8"
         }
       ]
