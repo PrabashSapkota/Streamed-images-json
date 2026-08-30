@@ -115,11 +115,15 @@
       "poster": "",
       "url": [
         {
-          "source": "Movistar Plus - Stream 1",
+          "source": "Premier 1 - Stream 1",
+          "url": "https://epiembeds.online/embed/premiersports1-ie"
+        },
+        {
+          "source": "Movistar Plus - Stream 2",
           "url": "https://stream-guardian-orb.lovable.app/watch/movistar-plus"
         },
         {
-          "source": "NO DLEAY - Stream 1",
+          "source": "NO DLEAY - Stream 3",
           "url": "https://proxy-play-hls.lovable.app/https://live05.meung.app/live/75748097.m3u8"
         }
       ]
