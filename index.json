@@ -57,7 +57,11 @@
           "url": "https://epiembeds.online/embed/daznlaliga-es"
         },
         {
-          "source": "NO DELAY - Stream 2",
+          "source": "BEIN - Stream 2",
+          "url": "https://epiembeds.online/embed/beinsports1-my"
+        },
+        {
+          "source": "NO DELAY - Stream 3",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/78905744.m3u8"
         }
       ]
