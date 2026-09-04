@@ -25,11 +25,19 @@
       "poster": "",
       "url": [
         {
-          "source": "DAZN - Stream 1",
+          "source": "NP DELAY - Stream 1",
+          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/08552895.m3u8"
+        },
+        {
+          "source": "Premier Sport - NO IOS",
           "url": "https://epiembeds.online/embed/daznlaliga-es"
         },
         {
-          "source": "NO DELAY - Stream 2",
+          "source": "DAZN - Stream 3",
+          "url": "https://epiembeds.online/embed/daznlaliga-es"
+        },
+        {
+          "source": "NO DELAY - Stream 4",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/33982309.m3u8"
         }
       ]
