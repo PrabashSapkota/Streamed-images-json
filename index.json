@@ -89,12 +89,12 @@
       "poster": "",
       "url": [
         {
-          "source": "Fancode HD - NO IOS",
-          "url": "https://clear-key-view.lovable.app/watch/fancode"
-        },
-        {
           "source": "Sky Sports F1 - Stream 1",
           "url": "https://helix-stream-link.lovable.app/55739"
+        },
+        {
+          "source": "Fancode HD - NO IOS",
+          "url": "https://clear-key-view.lovable.app/watch/fancode"
         }
       ]
     },
