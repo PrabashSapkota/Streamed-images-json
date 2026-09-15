@@ -17,6 +17,10 @@
          {
           "source": "BEIN ENGLISH - Default Stream",
           "url": "fancoodee.pages.dev/?src=https://vixembed.bid/embed/beinsports1my"
+        },
+        {
+          "source": "Premier Sports - Default Stream",
+          "url": "fancoodee.pages.dev/?src=https://vixembed.bid/embed/premiersports1"
         }
       ]
     },
