@@ -15,6 +15,10 @@
       "poster": "",
       "url": [
          {
+          "source": "CBS - DEFAULT STREAM",
+          "url": "https://helix-stream-link.lovable.app/56571"
+        },
+        {
           "source": "NO DELAY - DEFAULT STREAM",
           "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/02456966_tsc.m3u8"
         }
