@@ -25,8 +25,12 @@
       "poster": "",
       "url": [
         {
-          "source": "NO DELAY - DEFAULT STREAM",
-          "url": "https://prabashsapkota.github.io/noooooads/?src=https://live05.meung.app/live/33982309_tsc.m3u8"
+          "source": "SKY SPORTS - DEFAULT STREAM 1",
+          "url": "https://bin-tv.lovable.app/player?id=%2243314%22&s=1"
+        },
+        {
+          "source": "SKY SPORTS - DEFAULT STREAM 2",
+          "url": "https://bin-tv.lovable.app/player?id=%2243314%22&s=0"
         }
       ]
     },
