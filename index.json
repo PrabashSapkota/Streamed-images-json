@@ -14,13 +14,13 @@
       "title": "Tottenham Hotspur vs. Aston Villa",
       "poster": "",
       "url": [
+        {
+          "source": "TNT - NO IOS",
+          "url": "https://tmaxapp.site/welive/player.php?id=a048b84ef3"
+        }
          {
           "source": "TNT - DEFAULT STREAM",
           "url": "https://bin-tv.lovable.app/player?id=%2243315%22&s=0"
-        },
-         {
-          "source": "TNT - NO IOS",
-          "url": "https://tmaxapp.site/welive/player.php?id=a048b84ef3"
         }
       ]
     },
