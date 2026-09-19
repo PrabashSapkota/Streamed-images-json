@@ -69,8 +69,12 @@
       "poster": "",
       "url": [
         {
-          "source": "BEIN ENGLISH - NO IOS",
+          "source": "BEIN AQ - NO IOS",
           "url": "https://tmaxapp.site/welive/player.php?id=e8c4b2a280"
+        },
+        {
+          "source": "FANCODE AQ - NO IOS",
+          "url": "https://tmaxapp.site/welive/player.php?id=08425d61bd"
         }
       ]
     },
