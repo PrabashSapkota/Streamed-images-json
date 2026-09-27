@@ -46,40 +46,32 @@
       ]
     },
     {
-      "title": "",
-      "poster": "",
+      "title": "Wales @ Denmark",
+      "poster": "https://editorial.uefa.com//resources/02a9-21aab5e1fd90-a3ce86ae7c31-1000/format/free1/nations-league_denmark_vs_wales_tv_5246071.png?imwidth=2048",
       "url": [
         {
-          "source": "BEIN AQ - NO IOS",
+          "source": "beIN AQ - NO IOS",
+          "url": "https://tmaxapp.site/welive/player.php?id=a5d3bdf0e4"
+        }
+      ]
+    },
+    {
+      "title": "Netherlands @ Serbia",
+      "poster": "https://editorial.uefa.com//resources/02a9-21aab5fb90c3-eb7a61e365d5-1000/format/free1/nations-league_serbia_vs_netherlands_tv_5246078.png?imwidth=2048",
+      "url": [
+        {
+          "source": "beIN AQ - NO IOS",
           "url": "https://tmaxapp.site/welive/player.php?id=b0011959b8"
         }
       ]
     },
     {
-      "title": "",
-      "poster": "",
+      "title": "Greece @ Germany",
+      "poster": "https://editorial.uefa.com//resources/02a9-21aab5877164-50c155083063-1000/format/free1/nations-league_germany_vs_greece_tv_5246061.png?imwidth=2048",
       "url": [
         {
-          "source": "SONY NETWORK - DEFAULT",
-          "url": "https://exmxbxe.cfd/bintv/toarnao3-525"
-        }
-      ]
-    },
-    {
-      "title": "",
-      "poster": "",
-      "url": [
-        {
-          "source": "BeIN AQ - NO IOS",
+          "source": "beIN AQ - NO IOS",
           "url": "https://tmaxapp.site/welive/player.php?id=e8c4b2a280"
-        },
-        {
-          "source": "Sony Ten 2",
-          "url": "https://exmxbxe.cfd/bintv/umicawgj-6598"
-        },
-        {
-          "source": "Sport Tv 1",
-          "url": "https://exmxbxe.cfd/bintv/oqq5c86g-7521"
         }
       ]
     },
