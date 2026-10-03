@@ -30,8 +30,12 @@
       "poster": "https://assets.khelnow.com/news/uploads/2026/08/98-India-vs-Brazil-copy.jpg",
       "url": [
         {
-          "source": "Sony Sports (Use VPN)",
+          "source": "Sony English (Use VPN)",
           "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di91bWljYXdnai02NTk4"
+        },
+        {
+          "source": "Sony Hindi (Use VPN)",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9paXQwZTdxcy02NTYw"
         }
       ]
     },
