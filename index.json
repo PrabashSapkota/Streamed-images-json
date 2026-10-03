@@ -26,58 +26,54 @@
       ]
     },
     {
-      "title": "India vs Brazil",
-      "poster": "https://assets.khelnow.com/news/uploads/2026/08/98-India-vs-Brazil-copy.jpg",
+      "title": "Scotland @ North Macedonia",
+      "poster": "",
       "url": [
         {
-          "source": "Sony English",
+          "source": "Sony Sports 5",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9vYXk5c3hhci0zOTg1"
+        },
+        {
+          "source": "Sport TV 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di82ZHc5cjIyYS03MTky"
+        }
+      ]
+    },
+    {
+      "title": "Czechia @ Spain",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sony Sports 2",
           "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di91bWljYXdnai02NTk4"
+        },
+        {
+          "source": "Fox Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9wNTU2MmJ3bS0zMjg1"
         },
         {
           "source": "Sport TV 1",
           "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9vcXE1Yzg2Zy03NTIx"
+        }
+      ]
+    },
+    {
+      "title": "Slovenia @ Switzerland",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sony Sports 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di90b2FybmFvMy01MjU"
         },
         {
-          "source": "Sony Hindi",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9paXQwZTdxcy02NTYw"
+          "source": "Sport TV 3",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9kYm8wOWp3aC01NDA0"
         }
       ]
     },
     {
       "title": "",
-      "poster": "https://gazettengr.com/wp-content/uploads/Artboard-1-209.png",
-      "url": [
-        {
-          "source": "beIN AQ - NO IOS",
-          "url": "https://tmaxapp.site/welive/player.php?id=b0011959b8"
-        },
-        {
-          "source": "Fox Sports 2",
-          "url": "https://exmxbxe.cfd/bintv/p5562bwm-3285"
-        },
-        {
-          "source": "Sony Sports 2",
-          "url": "https://exmxbxe.cfd/bintv/umicawgj-6598"
-        },
-        {
-          "source": "Sport TV 1",
-          "url": "https://exmxbxe.cfd/bintv/oqq5c86g-7521"
-        }
-      ]
-    },
-    {
-      "title": "Türkiye @ Belgium",
-      "poster": "https://editorial.uefa.com//resources/02a9-21ad25cdd0eb-889eec12fe52-1000/format/free1/utv_-_highlights_template_v2_-_tv_nations_league_4_.png?imwidth=2048",
-      "url": [
-        {
-          "source": "beIN AQ - NO IOS",
-          "url": "https://tmaxapp.site/welive/player.php?id=e8c4b2a280"
-        }
-      ]
-    },
-    {
-      "title": "Sweden @ Bosnia-Herzegovina",
-      "poster": "https://editorial.uefa.com//resources/02a9-21ad249f8351-a1d5678491c7-1000/format/free1/nations-league_bosnia_and_herzegovina_vs_sweden_tv_5246366.png?imwidth=2048",
+      "poster": "",
       "url": [
         {
           "source": "beIN AQ - NO IOS",
