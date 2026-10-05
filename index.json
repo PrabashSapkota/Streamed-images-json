@@ -16,51 +16,47 @@
       "url": []
     },
     {
-      "title": "Austria @ Kosovo",
+      "title": "Latvia @ Cyprus",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sport TV 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
+        }
+      ]
+    },
+    {
+      "title": "Poland @ Bosnia-Herzegovina",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sport TV 3",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvZGJvMDlqd2gtNTQwNA"
+        }
+      ]
+    },
+    {
+      "title": "Belgium @ France",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sport TV 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
+        }
+      ]
+    },
+    {
+      "title": "Türkiye @ Italy",
       "poster": "",
       "url": [
         {
           "source": "Sport TV 2",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di82ZHc5cjIyYS03MTky"
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvNmR3OXIyMmEtNzE5Mg"
         }
       ]
     },
     {
-      "title": "Andorra @ Malta",
-      "poster": "",
-      "url": [
-        {
-          "source": "Sony Sports 2",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di91bWljYXdnai02NTk4"
-        }
-      ]
-    },
-    {
-      "title": "Norway @ Portugal",
-      "poster": "",
-      "url": [
-        {
-          "source": "beIN AQ - NO IOS",
-          "url": "https://tmaxapp.site/welive/player.php?id=b0011959b8"
-        },
-        {
-          "source": "Sport TV 1",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di9vcXE1Yzg2Zy03NTIx"
-        }
-      ]
-    },
-    {
-      "title": "Germany @ Greece",
-      "poster": "",
-      "url": [
-        {
-          "source": "beIN AQ - NO IOS",
-          "url": "https://tmaxapp.site/welive/player.php?id=a5d3bdf0e4"
-        }
-      ]
-    },
-    {
-      "title": "Serbia @ Netherlands",
+      "title": "",
       "poster": "",
       "url": [
         {
@@ -71,7 +67,7 @@
     },
     {
       "title": "",
-      "poster": "https://editorial.uefa.com//resources/02a9-21ad23b70da5-2a2dba6912e8-1000/format/free1/nations-league_faroe_islands_vs_slovakia_tv_5246357.png?imwidth=2048",
+      "poster": "",
       "url": [
         {
           "source": "TNT 1",
@@ -80,7 +76,7 @@
       ]
     },
     {
-      "title": "Denmark @ Wales",
+      "title": "",
       "poster": "",
       "url": [
         {
