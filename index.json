@@ -16,42 +16,22 @@
       "url": []
     },
     {
-      "title": "Latvia @ Cyprus",
+      "title": "Faroe Islands @ Kazakhstan",
       "poster": "",
       "url": [
         {
-          "source": "Sport TV 1",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
+          "source": "Fox Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvcDU1NjJid20tMzI4NQ"
         }
       ]
     },
     {
-      "title": "Poland @ Bosnia-Herzegovina",
+      "title": "San Marino @ Albania",
       "poster": "",
       "url": [
         {
-          "source": "Sport TV 3",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvZGJvMDlqd2gtNTQwNA"
-        }
-      ]
-    },
-    {
-      "title": "Belgium @ France",
-      "poster": "",
-      "url": [
-        {
-          "source": "Sport TV 1",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
-        }
-      ]
-    },
-    {
-      "title": "Türkiye @ Italy",
-      "poster": "",
-      "url": [
-        {
-          "source": "Sport TV 2",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvNmR3OXIyMmEtNzE5Mg"
+          "source": "Fox Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvcDU1NjJid20tMzI4NQ"
         }
       ]
     },
@@ -60,9 +40,65 @@
       "poster": "",
       "url": [
         {
-          "source": "Sport TV 4",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9leG14YnhlLmNmZC9iaW50di90MjE4d3d3ay0zMzYx"
+          "source": "Sport TV 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
         }
+      ]
+    },
+    {
+      "title": "Spain @ Croatia",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sony Ten 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvdG9hcm5hbzMtNTI1"
+        },
+        {
+          "source": "Dazn 1 Germany",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvM2RrOHJ4dWktNjIxMg"
+        },
+        {
+          "source": "Nova Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvbW5jeWVscTgtODc2MQ"
+        },
+        {
+          "source": "Sky Sport Uno",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvcHFkNnF4NDctODA3Mw"
+        },
+        {
+          "source": "Ziggo Sports 3",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvbWNob3pta3ItMjA4MQ"
+        },
+        {
+          "source": "Sport Tv 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
+        },
+        {
+          "source": "Movistar +",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvYjZhM2NqYngtOTAyMg"
+        }
+      ]
+    },
+    {
+      "title": "Czechia @ England",
+      "poster": "",
+      "url": [
+        {
+          "source": "Sony Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvdW1pY2F3Z2otNjU5OA"
+        },
+        {
+          "source": "Dazn 2 Germany",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvdG5pZnNwajYtODUy"
+        },
+         {
+          "source": "Fox Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvcDU1NjJid20tMzI4NQ"
+         },
+         {
+          "source": "Sport TV 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvNmR3OXIyMmEtNzE5Mg"
+         }
       ]
     },
     {
@@ -100,7 +136,7 @@
       ]
     },
     {
-      "title": "Romania @ Poland",
+      "title": "",
       "poster": "https://editorial.uefa.com//resources/02a9-21ad2450dda0-72af7e71e384-1000/format/free1/nations-league_poland_vs_romania_tv_5246375.png?imwidth=2048",
       "url": [
         {
@@ -110,7 +146,7 @@
       ]
     },
     {
-      "title": "Northern Ireland @ Ukraine",
+      "title": "",
       "poster": "https://mrfixitstips.co.uk/thumbor/S-PuOSJ-JVVvJmKtfZ6tKzi-LF0=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F09%2FUkraine-v-Northern-Ireland.png",
       "url": [
         {
