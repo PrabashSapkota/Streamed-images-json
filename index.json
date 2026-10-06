@@ -50,12 +50,12 @@
       "poster": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/06/2024-06-15_espvscro-matchup_16x9.jpg",
       "url": [
         {
-          "source": "Sport Tv 1",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
-        },
-        {
           "source": "Sony Ten 1",
           "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvdG9hcm5hbzMtNTI1"
+        },
+        {
+          "source": "Sport Tv 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvb3FxNWM4NmctNzUyMQ"
         },
         {
           "source": "Nova Sports 2",
