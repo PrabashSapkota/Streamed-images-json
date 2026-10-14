@@ -16,96 +16,88 @@
       "url": []
     },
     {
-      "title": "Singapore Airlines Singapore Grand Prix - Qualifying",
+      "title": "Liverpool @ LASK Linz",
       "poster": "",
       "url": [
         {
-          "source": "Sky Sports F1",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvZjU5NmY5OHItNjk3Nw"
-        }
-      ]
-    },
-    {
-      "title": "Brentford @ Aston Villa",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/au88yv1787740856.jpg",
-      "url": [
-        {
-          "source": "Sky Sport 7 NZ",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvZG9odmdhMWwtMjI4NA"
+          "source": "Ziggo Sports 3",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvbWNob3pta3ItMjA4MQ"
         },
         {
-          "source": "DAZN 2 Spain",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvMG8zdmxhYmstNDA4OA"
+          "source": "Nova Sports 4",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvOXNmOTFqOWwtNTM5NQ"
         },
         {
-          "source": "USA Network",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvbmxvYzM3c2MtMjY5Mw"
-        }
-      ]
-    },
-    {
-      "title": "AFC Bournemouth @ Chelsea",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/q8dbtn1785931536.jpg",
-      "url": [
-        {
-          "source": "Sky Sport 4 NZ",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvaDByeW9zZjktMTczNg"
+          "source": "TNT Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvaXQ3YXl0cWgtMTU0MA"
         },
         {
-          "source": "DAZN 1 Spain",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvc3EyNmlueWYtMjY2MA"
+          "source": "TNT Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvaXQ3YXl0cWgtMTU0MA"
         }
       ]
     },
     {
-      "title": "Fulham @ Ipswich Town",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kwvqhp1784549329.jpg",
+      "title": "Como @ Feyenoord Rotterdam",
+      "poster": "",
       "url": [
         {
-          "source": "Sky Sport 5 NZ",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvMzJmOXU0bm8tNTgyOA"
+          "source": "TNT Sports 4",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvM3UycmZobXAtODQ2OA"
         }
       ]
     },
     {
-      "title": "Brighton and Hove Albion @ Sunderland",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/ypbs7m1784549331.jpg",
+      "title": "Real Madrid @ AS Roma",
+      "poster": "",
       "url": [
         {
-          "source": "Sky Sport 6 NZ",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvd2dodWs5bngtMTk2Nw"
+          "source": "TNT Sports 4",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvM3UycmZobXAtODQ2OA"
         }
       ]
     },
     {
-      "title": "Tottenham Hotspur @ Manchester United",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/kmj3bs1784549325.jpg",
+      "title": "Fenerbahce @ Aston Villa",
+      "poster": "",
+      "url": [
+        {
+          "source": "TNT Sports 2",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvaXQ3YXl0cWgtMTU0MA"
+        }
+      ]
+    },
+    {
+      "title": "Borussia Dortmund @ Bodo/Glimt",
+      "poster": "",
+      "url": [
+        {
+          "source": "CBS Sports Network",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvOWMyandyNDAtMzQwNw"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "poster": "",
       "url": [
         {
           "source": "Sky Sport 8 NZ",
           "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvejZyNHFoaXotOTkzOA"
-        },
-        {
-          "source": "Telemundo",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYveWZzYjN6NGgtNjE4MA"
-        },
-        {
-          "source": "Sky Sports Main Events",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvbjU4YWpnZngtNDcy"
         }
       ]
     },
     {
-      "title": "Getafe @ Barcelona",
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/6lqk2z1784904504.jpg",
+      "title": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
+      "poster": "",
       "url": [
         {
-          "source": "Nova Sports 4 CZ",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvOXNmOTFqOWwtNTM5NQ"
+          "source": "TNT Sports 1",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvZTBseXJraHItMTAwMg"
         },
         {
-          "source": "ESPN Deportes",
-          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9ncmFuZGVteC5vcmcvYmludHYvNnRyc2FudDctMTQyMQ"
+          "source": "Willow HD",
+          "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9laGdlbWJ4ZS5jZmQvYmludHYvc3BkOGdwb2gtNjU4Ng"
         }
       ]
     },
